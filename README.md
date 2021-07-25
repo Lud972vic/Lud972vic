@@ -13,5 +13,5 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
 -->
-- 🔭 Je travaille actuellement sur un projet de location de biens pour les vacances
+- 🔭 Je travaille actuellement sur un projet de location de biens pour les vacances, le site en cours de dev https://peteretlocations.herokuapp.com/
 - 🌱 J'apprends actuellement Symfony
