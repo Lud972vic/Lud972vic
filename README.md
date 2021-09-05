@@ -13,5 +13,5 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
 -->
-- 🔭 Je travaille actuellement sur un projet de location de biens pour les vacances pour un client, le site en cours de dev https://peteretlocations.herokuapp.com/
+- 🔭 Je travaille actuellement sur un projet de location de biens pour les vacances pour un client, le site en cours de dev https://melyslocation.herokuapp.com/
 - 🌱 Un ancien projet de site photo avec son blog, cartographie, modération, tchat... https://juste-un-regard.herokuapp.com
