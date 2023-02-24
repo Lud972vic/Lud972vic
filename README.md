@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
 -->
-- 💬 Portfolio en cours https://ludovic-erin.herokuapp.com
-- 🔭 Je travaille actuellement sur un projet de location de biens pour les vacances pour un client, le site en cours de dev https://melyslocation.herokuapp.com
-- 🌱 Un ancien projet de site photo avec son blog, cartographie, modération, tchat... https://juste-un-regard.herokuapp.com
+- 💬 Portfolio en cours https://ludovic-erin.herokuapp.com (serveur offline)
+- 🔭 Je travaille actuellement sur un projet de location de biens pour les vacances pour un client, le site en cours de dev https://melyslocation.herokuapp.com (serveur offline)
+- 🌱 Un ancien projet de site photo avec son blog, cartographie, modération, tchat... https://juste-un-regard.herokuapp.com (serveur offline)
 - Un mini Quiz pour SQL... https://lud972vic.github.io/Quiz/
