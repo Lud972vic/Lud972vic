@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🔭 Je travaille actuellement sur un projet de location de biens pour les vacances pour un client, le site en cours de dev https://melyslocation.herokuapp.com (serveur offline)
 - 🌱 Un ancien projet de site photo avec son blog, cartographie, modération, tchat... https://juste-un-regard.herokuapp.com (serveur offline)
 - Des minis Quizs... https://lud972vic.github.io/Quizs/
+- Les entrepots et les magasins LIDL... https://lud972vic.github.io/Pin/
