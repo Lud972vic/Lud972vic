@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 - 🌱 Un ancien projet de site photo avec son blog, cartographie, modération, tchat... https://juste-un-regard.herokuapp.com (serveur offline)
 
 ##### ALDI 2023
-- 🔭 Je travaille actuellement sur un projet OnboardingRH (Ex AWA) https://github.com/Lud972vic/OnboardingRH
+- 🔭 Je travaille actuellement sur un projet Onboarding RH (Ex AWA) https://github.com/Lud972vic/OnboardingRH
+![229362344-e3f6fdab-8ad8-4558-8ba6-8dc24c1f1809](https://user-images.githubusercontent.com/52196263/233828782-9de26dea-13a7-4608-a17c-2907518abd0b.png)
+
 - Des minis Quizs... https://lud972vic.github.io/Quizs/
+![Capture d’écran du 2023-04-23 10-27-03](https://user-images.githubusercontent.com/52196263/233828754-f8d14789-9fb3-4949-a013-5e0bef352bba.png)
+
 - Les entrepôts et les magasins LIDL... https://lud972vic.github.io/PinALDI/
+![Capture d’écran du 2023-04-23 10-27-44](https://user-images.githubusercontent.com/52196263/233828757-771c07ef-26ae-429d-a3ab-773109a028bb.png)
