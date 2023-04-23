@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Capture d’écran du 2023-04-23 10-22-15](https://user-images.githubusercontent.com/52196263/233828519-4d12592d-3bbc-4950-a6c5-2b0c53292c70.png)
 
 - 🌱 Un ancien projet de site photo avec son blog, cartographie, modération, tchat... https://juste-un-regard.herokuapp.com (serveur offline)
+![84150556-4e931380-aa62-11ea-8ec0-5a33c38e9bf9](https://user-images.githubusercontent.com/52196263/233828959-6ea0bbfc-b128-4168-8196-f0e65769c693.png)
 
 ##### ALDI 2023
 - 🔭 Je travaille actuellement sur un projet Onboarding RH (Ex AWA) https://github.com/Lud972vic/OnboardingRH
