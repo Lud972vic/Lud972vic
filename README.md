@@ -13,6 +13,12 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
 -->
+- 🔭 MonitoringJobs est un projet développé en Vibe coding qui permet de lancer et surveiller des traitements à distance sur un serveur, comme des jobs TOS Talend. Cette application web basée sur Symfony offre une interface centralisée pour gérer l'exécution de tâches automatisées, suivre leur progression et analyser leurs résultats.
+<img width="1658" height="1222" alt="dashboard1" src="https://github.com/user-attachments/assets/9ce802aa-62bd-4f48-bebc-b672d0b24ded" />
+<img width="1702" height="1266" alt="dashboard5" src="https://github.com/user-attachments/assets/9219b043-fde9-4182-a59e-58103442f49f" />
+<img width="1702" height="1266" alt="dashboard7" src="https://github.com/user-attachments/assets/e8395403-27d5-4ed5-962b-58e7e3e1b944" />
+<img width="1702" height="1266" alt="dashboard6" src="https://github.com/user-attachments/assets/53f953b4-89cb-4147-ad02-84eb355794d6" />
+
 - 🔭 Migration d'une application Microsoft Access VBA vers une application Web - FA Facturation automatique - Projet en cours 2025
 
 <img width="1620" alt="Capture d’écran 2025-02-22 à 18 04 41" src="https://github.com/user-attachments/assets/1b65c7dc-92d3-4f6d-a8dd-c537e9bcdb3a" />
