@@ -14,11 +14,14 @@
 Here are some ideas to get you started:
 -->
 - 🔭 RrR est une solution complète pour la gestion de vos Rabais - Remises - Ristourne, Le calcul et suivi commercial des RRR consiste à identifier, enregistrer et contrôler ces réductions, car elles impactent directement le chiffre d’affaires net, la marge et les relations commerciales... - Projet en cours 2025/26 en binôme avec https://github.com/titibox91L
-<img width="1620" alt="Capture d’écran 2025-09-25 à 21 03 58" src="https://github.com/user-attachments/assets/b2204769-2fe6-46db-8cca-d9795bea05b0" />
-<img width="1620" alt="Capture d’écran 2025-09-25 à 21 02 55" src="https://github.com/user-attachments/assets/2a6cee75-1e3a-4bc2-91c3-801af72a051d" />
-<img width="1620" alt="Capture d’écran 2025-09-25 à 21 02 13" src="https://github.com/user-attachments/assets/80bb95dc-e96a-4bad-833a-1744605293e3" />
-<img width="1620" alt="Capture d’écran 2025-09-25 à 21 00 23" src="https://github.com/user-attachments/assets/26f14c2d-141b-45ce-8f7c-0240f8caa06e" />
+
+🤔 Application Microsoft Access vers une WebApp.
+
 <img width="1620" alt="Capture d’écran 2025-09-25 à 20 59 51" src="https://github.com/user-attachments/assets/22a25300-ea18-4664-9167-612ffb38406c" />
+<img width="1620" alt="Capture d’écran 2025-09-25 à 21 00 23" src="https://github.com/user-attachments/assets/26f14c2d-141b-45ce-8f7c-0240f8caa06e" />
+<img width="1620" alt="Capture d’écran 2025-09-25 à 21 02 13" src="https://github.com/user-attachments/assets/80bb95dc-e96a-4bad-833a-1744605293e3" />
+<img width="1620" alt="Capture d’écran 2025-09-25 à 21 02 55" src="https://github.com/user-attachments/assets/2a6cee75-1e3a-4bc2-91c3-801af72a051d" />
+<img width="1620" alt="Capture d’écran 2025-09-25 à 21 03 58" src="https://github.com/user-attachments/assets/b2204769-2fe6-46db-8cca-d9795bea05b0" />
 
 - 🔭 MonitoringJobs est un projet développé en Vibe coding qui permet de lancer et surveiller des traitements à distance sur un serveur, comme des jobs TOS Talend. Cette application web basée sur Symfony offre une interface centralisée pour gérer l'exécution de tâches automatisées, suivre leur progression et analyser leurs résultats.
 <img width="1620" alt="dashboard1" src="https://github.com/user-attachments/assets/9ce802aa-62bd-4f48-bebc-b672d0b24ded" />
