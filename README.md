@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 RrR est une solution complète pour la gestion de vos Rabais - Remises - Ristourne, Le calcul et suivi commercial des RRR consiste à identifier, enregistrer et contrôler ces réductions, car elles impactent directement le chiffre d’affaires net, la marge et les relations commerciales... - Projet en cours 2025/26 en binôme avec https://github.com/titibox91L
-- 
+  
 🤔 Application Microsoft Access vers une WebApp.
 <img width="1620" alt="Capture d’écran 2025-09-25 à 20 59 51" src="https://github.com/user-attachments/assets/22a25300-ea18-4664-9167-612ffb38406c" />
 <img width="1620" alt="Capture d’écran 2025-09-25 à 21 00 23" src="https://github.com/user-attachments/assets/26f14c2d-141b-45ce-8f7c-0240f8caa06e" />
