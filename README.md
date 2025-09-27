@@ -13,6 +13,13 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
 -->
+- 🔭 SimplePartage est une application de partage de fichiers développée avec Symfony en Vibe coding, permettant aux utilisateurs de gérer des dossiers et des fichiers avec un système de permissions avancé. https://github.com/Lud972vic/SimplePartage
+<img width="1620" alt="Capture d’écran 2025-09-28 à 00 40 12" src="https://github.com/user-attachments/assets/8cce4b7e-b354-4fdf-966f-d0361384bdd8" />
+<img width="1620" alt="Capture d’écran 2025-09-28 à 00 40 46" src="https://github.com/user-attachments/assets/41bf58ab-9e86-4e91-af3b-fffba35c3074" />
+<img width="1620" alt="Capture d’écran 2025-09-28 à 00 44 38" src="https://github.com/user-attachments/assets/004f8bd7-87bd-4766-a815-ac4d7b69532f" />
+<img width="1620" alt="Capture d’écran 2025-09-28 à 00 45 16" src="https://github.com/user-attachments/assets/9bdc1d90-b7da-43c0-b805-4bfdeb77fa1b" />
+<img width="1620" alt="Capture d’écran 2025-09-28 à 00 44 04" src="https://github.com/user-attachments/assets/1f8edc71-8b70-4c30-8beb-cbe5d9d10a04" />
+  
 - 🔭 RrR est une solution complète pour la gestion de vos Rabais - Remises - Ristourne, Le calcul et suivi commercial des RRR consiste à identifier, enregistrer et contrôler ces réductions, car elles impactent directement le chiffre d’affaires net, la marge et les relations commerciales... - Projet en cours 2025/26 en binôme avec https://github.com/titibox91L
   
 🤔 Application Microsoft Access vers une WebApp.
