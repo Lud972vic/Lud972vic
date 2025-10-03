@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img width="1620" alt="Capture d’écran 2025-09-25 à 21 02 55" src="https://github.com/user-attachments/assets/2a6cee75-1e3a-4bc2-91c3-801af72a051d" />
 <img width="1620" alt="Capture d’écran 2025-09-25 à 21 03 58" src="https://github.com/user-attachments/assets/b2204769-2fe6-46db-8cca-d9795bea05b0" />
 
-- 🔭 MonitoringJobs est un projet développé en Vibe coding qui permet de lancer et surveiller des traitements à distance sur un serveur, comme des jobs TOS Talend. Cette application web basée sur Symfony offre une interface centralisée pour gérer l'exécution de tâches automatisées, suivre leur progression et analyser leurs résultats.
+- 🔭 MonitoringJobs est un projet développé en Vibe coding qui permet de lancer et surveiller des traitements à distance sur un serveur, comme des jobs TOS Talend. Cette application web basée sur Symfony offre une interface centralisée pour gérer l'exécution de tâches automatisées, suivre leur progression et analyser leurs résultats. https://github.com/Lud972vic/MonitoringJobs
 <img width="1620" alt="dashboard1" src="https://github.com/user-attachments/assets/9ce802aa-62bd-4f48-bebc-b672d0b24ded" />
 <img width="1620" alt="dashboard5" src="https://github.com/user-attachments/assets/9219b043-fde9-4182-a59e-58103442f49f" />
 <img width="1620" alt="dashboard7" src="https://github.com/user-attachments/assets/e8395403-27d5-4ed5-962b-58e7e3e1b944" />
