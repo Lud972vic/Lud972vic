@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Une application web simple pour gérer des magasins, des matériels, et leurs affectations, avec traçabilité (audit) et historique des mouvements de stock.
+- 🔭 Une application web simple pour gérer des magasins, des matériels, et leurs affectations, avec traçabilité (audit) et historique des mouvements de stock. https://github.com/Lud972vic/HubStock
 <img width="1620" alt="Capture d’écran 2025-10-03 à 15 37 06" src="https://github.com/user-attachments/assets/e074dc5c-2225-45c2-98dc-478b86671d19" />
 <img width="1620" alt="Capture d’écran 2025-10-03 à 15 37 15" src="https://github.com/user-attachments/assets/17eeb3ab-c88f-43e0-babf-967f62649a2e" />
 <img width="1620" alt="Capture d’écran 2025-10-03 à 15 38 18" src="https://github.com/user-attachments/assets/3e2af922-7197-4892-8735-2b99d043a1f2" />
