@@ -1,6 +1,6 @@
 # Salut, moi c'est Ludovic ! 👋
 
-Développeur d'applications PHP & Symfony, je suis un peu le chef d'orchestre du back-end, mais je sais aussi faire danser le front-end. En coulisses, je m'occupe de la machinerie : serveurs Linux, Docker, Apache, Caddy, et toute la clique (PHP, MariaDB, phpMyAdmin, Mailpit). En gros, je fais en sorte que tout tourne rond, du serveur à l'interface.
+Concepteur développeur d'applications PHP & Symfony, je suis un peu le chef d'orchestre du back-end, mais je sais aussi faire danser le front-end. En coulisses, je m'occupe de la machinerie : serveurs Linux, Docker, Apache, Caddy, et toute la clique (PHP, MariaDB, phpMyAdmin, Mailpit). En gros, je fais en sorte que tout tourne rond, du serveur à l'interface.
 
 Récemment, j'ai attrapé le virus de l'IA, des LLMs et du 'vibe coding'. J'expérimente pour pimenter mes futurs projets avec une dose d'innovation et une pincée de magie algorithmique.
 
