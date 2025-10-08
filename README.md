@@ -1,8 +1,8 @@
 # Salut, moi c'est Ludovic ! 👋
 
-Développeur passionné, je transforme des idées en applications web fonctionnelles et intuitives. J'aime explorer de nouvelles technologies et relever des défis techniques. Bienvenue sur mon profil !
+Développeur d'applications spécialisé en PHP & Symfony, avec une préférence pour le back-end, je possède également de solides compétences en front-end. Je suis également compétent dans la mise en place et la configuration de serveurs web sous Linux, que ce soit avec Docker, Apache ou Caddy, incluant l'écosystème complet (PHP, MariaDB, phpMyAdmin, Mailpit).
 
-Actuellement, je me passionne pour l'intelligence artificielle et le 'vibe coding', qui consiste à créer des ambiances de codage productives et agréables. J'explore activement ces domaines pour intégrer des solutions innovantes et créatives dans mes futurs projets.
+Récemment, je me suis passionné pour l'intelligence artificielle (IA), les grands modèles de langage (LLM) et le 'vibe coding'. J'explore activement ces domaines pour intégrer des solutions innovantes et créatives dans mes futurs projets.
 
 ---
 
@@ -165,15 +165,27 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-lightgrey?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Caddy](https://img.shields.io/badge/caddy-%2300BFFF.svg?style=for-the-badge&logo=caddy&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6c78af?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Mailpit](https://img.shields.io/badge/Mailpit-darkblue?style=for-the-badge)
 
----
+---bonjour
 
 ### 📫 Comment me contacter
 
 N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez simplement discuter de développement !
 
-- **Email :** [votre.email@example.com](mailto:votre.email@example.com)
 - **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/votre-profil/)
