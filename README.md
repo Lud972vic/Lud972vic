@@ -173,7 +173,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
   <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" /></a>
   <a href="https://talaxie.deilink.fr/" target="_blank"><img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/ETL-lightgrey?style=for-the-badge" />
+  <a href="https://www.informatica.com/fr/" target="_blank"><img src="https://img.shields.io/badge/ETL-lightgrey?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -188,12 +188,12 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <p align="center">
-  <a href="https.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="https://httpd.apache.org/" target="_blank"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></a>
   <a href="https://caddyserver.com/" target="_blank"><img src="https://img.shields.io/badge/caddy-%2300BFFF.svg?style=for-the-badge&logo=caddy&logoColor=white" /></a>
   <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
   <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://img.shields.io/badge/phpMyAdmin-6c78af?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Mailpit-darkblue?style=for-the-badge" />
+  <a href="https://mailpit.axllent.org/" target="_blank"><img src="https://img.shields.io/badge/Mailpit-darkblue?style=for-the-badge" /></a>
 </p>
 
 ---
