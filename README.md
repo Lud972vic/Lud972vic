@@ -15,12 +15,20 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Une application web simple pour gérer des magasins, des matériels, et leurs affectations, avec traçabilité (audit) et historique des mouvements de stock. https://github.com/Lud972vic/HubStock
-<img width="1620" alt="Capture d’écran 2025-10-03 à 15 37 06" src="https://github.com/user-attachments/assets/e074dc5c-2225-45c2-98dc-478b86671d19" />
-<img width="1620" alt="Capture d’écran 2025-10-03 à 15 37 15" src="https://github.com/user-attachments/assets/17eeb3ab-c88f-43e0-babf-967f62649a2e" />
-<img width="1620" alt="Capture d’écran 2025-10-03 à 15 38 18" src="https://github.com/user-attachments/assets/3e2af922-7197-4892-8735-2b99d043a1f2" />
-<img width="1620" alt="Capture d’écran 2025-10-03 à 15 38 26" src="https://github.com/user-attachments/assets/168bc6a5-6e4a-4e63-9487-1092a05337e7" />
-<img width="1620" alt="Capture d’écran 2025-10-03 à 15 39 09" src="https://github.com/user-attachments/assets/1193350d-3c25-45f3-81e4-fcdee5bd8ef7" />
-<img width="1620" alt="Capture d’écran 2025-10-03 à 15 38 08" src="https://github.com/user-attachments/assets/0af97a30-52a1-4b7b-a892-ccaccb70af33" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-32-33" src="https://github.com/user-attachments/assets/4530e708-c807-47c7-ae79-0badaca89eff" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-32-25" src="https://github.com/user-attachments/assets/1ca78b71-e7bf-4fe5-afc6-99f7e05811f3" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-32-20" src="https://github.com/user-attachments/assets/a848777b-ce74-4d15-92e1-c000c11c4716" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-32-12" src="https://github.com/user-attachments/assets/54dd17f5-1c67-439d-ad18-6505ce9ef0ba" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-31-16" src="https://github.com/user-attachments/assets/cb440345-a35e-4f78-ad6e-24195d64c434" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-30-59" src="https://github.com/user-attachments/assets/b16327ad-200a-4875-82a1-f964a18f5db0" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-30-50" src="https://github.com/user-attachments/assets/6e30c59a-0373-4031-88fb-d94a3b978759" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-30-00" src="https://github.com/user-attachments/assets/024addbb-22b7-4845-ac60-c3f916c7a2c8" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-29-47" src="https://github.com/user-attachments/assets/63bf35a8-8adc-43c8-a87a-24217760a630" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-29-40" src="https://github.com/user-attachments/assets/7a8b8b7d-942c-4957-9193-e3ead6fdbe38" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-28-59" src="https://github.com/user-attachments/assets/701ebe05-eff5-4703-ac11-0f92db5fbec5" />
+<img width="1588" height="1115" alt="capture-2025-10-08-11-28-44" src="https://github.com/user-attachments/assets/44dfbde8-1c2b-4b63-9629-6ac67d075cef" />
+<img width="1544" height="1071" alt="capture-2025-10-08-11-28-13" src="https://github.com/user-attachments/assets/3939303f-8e1d-4845-98fb-b72b9deb2460" />
+
 
 - 🔭 SimplePartage est une application de partage de fichiers développée avec Symfony en Vibe coding, permettant aux utilisateurs de gérer des dossiers et des fichiers avec un système de permissions avancé. https://github.com/Lud972vic/SimplePartage
 <img width="1620" alt="Capture d’écran 2025-09-28 à 00 40 12" src="https://github.com/user-attachments/assets/8cce4b7e-b354-4fdf-966f-d0361384bdd8" />
