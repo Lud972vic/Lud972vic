@@ -1,8 +1,8 @@
 # Salut, moi c'est Ludovic ! 👋
 
-Développeur d'applications spécialisé en PHP & Symfony, avec une préférence pour le back-end, je possède également de solides compétences en front-end. Je suis également compétent dans la mise en place et la configuration de serveurs web sous Linux, que ce soit avec Docker, Apache ou Caddy, incluant l'écosystème complet (PHP, MariaDB, phpMyAdmin, Mailpit).
+Développeur d'applications PHP & Symfony, je suis un peu le chef d'orchestre du back-end, mais je sais aussi faire danser le front-end. En coulisses, je m'occupe de la machinerie : serveurs Linux, Docker, Apache, Caddy, et toute la clique (PHP, MariaDB, phpMyAdmin, Mailpit). En gros, je fais en sorte que tout tourne rond, du serveur à l'interface.
 
-Récemment, je me suis passionné pour l'intelligence artificielle (IA), les grands modèles de langage (LLM) et le 'vibe coding'. J'explore activement ces domaines pour intégrer des solutions innovantes et créatives dans mes futurs projets.
+Récemment, j'ai attrapé le virus de l'IA, des LLMs et du 'vibe coding'. J'expérimente pour pimenter mes futurs projets avec une dose d'innovation et une pincée de magie algorithmique.
 
 ---
 
