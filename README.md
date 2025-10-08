@@ -2,6 +2,8 @@
 
 Développeur passionné, je transforme des idées en applications web fonctionnelles et intuitives. J'aime explorer de nouvelles technologies et relever des défis techniques. Bienvenue sur mon profil !
 
+Actuellement, je me passionne pour l'intelligence artificielle et le 'vibe coding', qui consiste à créer des ambiances de codage productives et agréables. J'explore activement ces domaines pour intégrer des solutions innovantes et créatives dans mes futurs projets.
+
 ---
 
 ### 🚀 Mes Projets
