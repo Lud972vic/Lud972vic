@@ -15,6 +15,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
     <td>
       <h4>📦 HubStock</h4>
       <p>Une application web pour la gestion de magasins, de matériels et de leurs affectations, avec une traçabilité complète et un historique des mouvements de stock.</p>
+      <p><em>Site en ligne :</em> <a href="https://lud972vic-hubstock.great-site.net/public/login">Site en ligne</a></p>
       <p><em>GitHub :</em> <a href="https://github.com/Lud972vic/HubStock">https://github.com/Lud972vic/HubStock</a></p>
       <p><em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</p>
     </td>
