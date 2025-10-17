@@ -201,6 +201,4 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ### 📫 Comment me contacter
 
-N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez simplement discuter de développement !
-
-- **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/votre-profil/)
+N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez simplement discuter de développement eurekaludo@free.fr !
