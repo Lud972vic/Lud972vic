@@ -195,6 +195,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
   <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
   <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://img.shields.io/badge/phpMyAdmin-6c78af?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
   <a href="https://mailpit.axllent.org/" target="_blank"><img src="https://img.shields.io/badge/Mailpit-darkblue?style=for-the-badge" /></a>
+  <a href="https://www.merci-app.com/lexique/etc-ou-ect" target="_blank">etc.</a>
 </p>
 
 ---
