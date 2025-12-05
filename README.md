@@ -55,7 +55,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
   <tr>
     <td>
-      <h4>📦 Stock-HUB-Multiple-Articles</h4>
+      <h4>📦 Stock HUB Multiple articles</h4>
       <p>Application de gestion de stock multi-magasins , développée avec Symfony.</p>
       <p><em>GitHub :</em> <a href="https://github.com/Lud972vic/Stock-HUB-Multiple-Articles">https://github.com/Lud972vic/Stock-HUB-Multiple-Articles</a></p>
       <p><em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</p>
