@@ -11,8 +11,8 @@ Récemment, j'ai attrapé le virus de l'IA, des LLMs et du 'vibe coding'. J'exp�
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <table width="100%">
-  <tr style="background-color: #f6f8fa;">
-
+  
+    <tr style="background-color: #f6f8fa;">
     <td>
       <h4>🏭 StockHUB 2025</h4>
       <p>Nouvelle application de gestion de stock (Refonte). Tableau de bord complet avec statistiques, gestion des fournisseurs, matériels et magasins. Suivi des mouvements et état du stock en temps réel.</p>
@@ -23,7 +23,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
       <img width="150" alt="StockHUB Dashboard" src="LIEN_IMAGE_DASHBOARD" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
       <img width="150" alt="Liste Fournisseurs" src="LIEN_IMAGE_LISTE" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
     </td>
-    
+    </tr>
+    <tr style="background-color: #f6f8fa;">
     <td>
       <h4>📦 HubStock</h4>
       <p>Une application web pour la gestion de magasins, de matériels et de leurs affectations, avec une traçabilité complète et un historique des mouvements de stock.</p>
