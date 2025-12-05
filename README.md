@@ -35,6 +35,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
       <a href="https://github.com/user-attachments/assets/3939303f-8e1d-4845-98fb-b72b9deb2460"><img width="150" alt="capture-2025-10-08-11-28-13" src="https://github.com/user-attachments/assets/3939303f-8e1d-4845-98fb-b72b9deb2460" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
     </td>
   </tr>
+
+    
   <tr>
     <td>
       <h4>📁 SimplePartage</h4>
@@ -50,6 +52,25 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
         <a href="https://github.com/user-attachments/assets/1f8edc71-8b70-4c30-8beb-cbe5d9d10a04"><img width="150" alt="Capture d’écran 2025-09-28 à 00 44 04" src="https://github.com/user-attachments/assets/1f8edc71-8b70-4c30-8beb-cbe5d9d10a04" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <h4>📁 SimplePartage</h4>
+      <p>Une application de partage de fichiers avec un système de permissions avancé, développée avec Symfony.</p>
+      <p><em>GitHub :</em> <a href="https://github.com/Lud972vic/SimplePartage">https://github.com/Lud972vic/SimplePartage</a></p>
+      <p><em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</p>
+    </td>
+    <td align="right">
+        <a href="https://github.com/user-attachments/assets/8cce4b7e-b354-4fdf-966f-d0361384bdd8"><img width="150" alt="Capture d’écran 2025-09-28 à 00 40 12" src="https://github.com/user-attachments/assets/8cce4b7e-b354-4fdf-966f-d0361384bdd8" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+        <a href="https://github.com/user-attachments/assets/41bf58ab-9e86-4e91-af3b-fffba35c3074"><img width="150" alt="Capture d’écran 2025-09-28 à 00 40 46" src="https://github.com/user-attachments/assets/41bf58ab-9e86-4e91-af3b-fffba35c3074" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+        <a href="https://github.com/user-attachments/assets/004f8bd7-87bd-4766-a815-ac4d7b69532f"><img width="150" alt="Capture d’écran 2025-09-28 à 00 44 38" src="https://github.com/user-attachments/assets/004f8bd7-87bd-4766-a815-ac4d7b69532f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+        <a href="https://github.com/user-attachments/assets/9bdc1d90-b7da-43c0-b805-4bfdeb77fa1b"><img width="150" alt="Capture d’écran 2025-09-28 à 00 45 16" src="https://github.com/user-attachments/assets/9bdc1d90-b7da-43c0-b805-4bfdeb77fa1b" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+        <a href="https://github.com/user-attachments/assets/1f8edc71-8b70-4c30-8beb-cbe5d9d10a04"><img width="150" alt="Capture d’écran 2025-09-28 à 00 44 04" src="https://github.com/user-attachments/assets/1f8edc71-8b70-4c30-8beb-cbe5d9d10a04" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+    </td>
+  </tr>
+  
+
+  
   <tr style="background-color: #f6f8fa;">
     <td>
       <h4>💰 RrR (Rabais - Remises - Ristournes)</h4>
