@@ -14,8 +14,32 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
   <tr style="background-color: #f6f8fa;">
 
 
-    
 
+
+<tr>
+    
+    <td>
+      <h4>📦 HubStock</h4>
+      <p>Une application web pour la gestion de magasins, de matériels et de leurs affectations, avec une traçabilité complète et un historique des mouvements de stock.</p>
+      <p><em>Site en ligne :</em> <a href="https://lud972vic-hubstock.great-site.net/public/login">Site en ligne</a></p>
+      <p><em>GitHub :</em> <a href="https://github.com/Lud972vic/HubStock">https://github.com/Lud972vic/HubStock</a></p>
+      <p><em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</p>
+    </td>
+    <td align="right">
+      <a href="https://github.com/user-attachments/assets/4530e708-c807-47c7-ae79-0badaca89eff"><img width="150" alt="capture-2025-10-08-11-32-33" src="https://github.com/user-attachments/assets/4530e708-c807-47c7-ae79-0badaca89eff" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/1ca78b71-e7bf-4fe5-afc6-99f7e05811f3"><img width="150" alt="capture-2025-10-08-11-32-25" src="https://github.com/user-attachments/assets/1ca78b71-e7bf-4fe5-afc6-99f7e05811f3" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/a848777b-ce74-4d15-92e1-c000c11c4716"><img width="150" alt="capture-2025-10-08-11-32-20" src="https://github.com/user-attachments/assets/a848777b-ce74-4d15-92e1-c000c11c4716" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/54dd17f5-1c67-439d-ad18-6505ce9ef0ba"><img width="150" alt="capture-2025-10-08-11-32-12" src="https://github.com/user-attachments/assets/54dd17f5-1c67-439d-ad18-6505ce9ef0ba" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/cb440345-a35e-4f78-ad6e-24195d64c434"><img width="150" alt="capture-2025-10-08-11-31-16" src="https://github.com/user-attachments/assets/cb440345-a35e-4f78-ad6e-24195d64c434" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/b16327ad-200a-4875-82a1-f964a18f5db0"><img width="150" alt="capture-2025-10-08-11-30-59" src="https://github.com/user-attachments/assets/b16327ad-200a-4875-82a1-f964a18f5db0" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/6e30c59a-0373-4031-88fb-d94a3b978759"><img width="150" alt="capture-2025-10-08-11-30-50" src="https://github.com/user-attachments/assets/6e30c59a-0373-4031-88fb-d94a3b978759" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/024addbb-22b7-4845-ac60-c3f916c7a2c8"><img width="150" alt="capture-2025-10-08-11-30-00" src="https://github.com/user-attachments/assets/024addbb-22b7-4845-ac60-c3f916c7a2c8" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/63bf35a8-8adc-43c8-a87a-24217760a630"><img width="150" alt="capture-2025-10-08-11-29-47" src="https://github.com/user-attachments/assets/63bf35a8-8adc-43c8-a87a-24217760a630" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/7a8b8b7d-942c-4957-9193-e3ead6fdbe38"><img width="150" alt="capture-2025-10-08-11-29-40" src="https://github.com/user-attachments/assets/7a8b8b7d-942c-4957-9193-e3ead6fdbe38" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/701ebe05-eff5-4703-ac11-0f92db5fbec5"><img width="150" alt="capture-2025-10-08-11-28-59" src="https://github.com/user-attachments/assets/701ebe05-eff5-4703-ac11-0f92db5fbec5" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/44dfbde8-1c2b-4b63-9629-6ac67d075cef"><img width="150" alt="capture-2025-10-08-11-28-44" src="https://github.com/user-attachments/assets/44dfbde8-1c2b-4b63-9629-6ac67d075cef" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+      <a href="https://github.com/user-attachments/assets/3939303f-8e1d-4845-98fb-b72b9deb2460"><img width="150" alt="capture-2025-10-08-11-28-13" src="https://github.com/user-attachments/assets/3939303f-8e1d-4845-98fb-b72b9deb2460" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+    </td>
   </tr>
   <tr>
     <td>
