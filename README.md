@@ -12,12 +12,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <table width="100%">
   <tr style="background-color: #f6f8fa;">
-
-
-
-
-<tr>
-    
     <td>
       <h4>📦 HubStock</h4>
       <p>Une application web pour la gestion de magasins, de matériels et de leurs affectations, avec une traçabilité complète et un historique des mouvements de stock.</p>
