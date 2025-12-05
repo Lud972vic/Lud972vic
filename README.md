@@ -53,6 +53,9 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
     </td>
   </tr>
 
+
+
+
   <tr>
     <td>
       <h4>📁 SimplePartage</h4>
@@ -61,6 +64,19 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
       <p><em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</p>
     </td>
     <td align="right">
+
+<img width="2145" height="1482" alt="Capture d’écran 2025-12-05 à 12 55 46" src="https://github.com/user-attachments/assets/817b7d19-871e-4d4f-a626-63483fc7f757" />
+<img width="2145" height="1482" alt="Capture d’écran 2025-12-05 à 12 56 05" src="https://github.com/user-attachments/assets/69226eea-cd81-4bba-b4e6-a5ee9e28c741" />
+<img width="2145" height="1482" alt="Capture d’écran 2025-12-05 à 12 56 19" src="https://github.com/user-attachments/assets/e353996b-9f92-44b9-ad9b-fa47ab24052b" />
+<img width="2145" height="1482" alt="Capture d’écran 2025-12-05 à 12 56 26" src="https://github.com/user-attachments/assets/bb2887d3-768c-44b7-b0fe-afd4df935bc4" />
+<img width="2145" height="1482" alt="Capture d’écran 2025-12-05 à 12 56 35" src="https://github.com/user-attachments/assets/e49a0fc0-011a-4ea6-ac11-5564cac7c0b3" />
+<img width="2145" height="1482" alt="Capture d’écran 2025-12-05 à 12 56 42" src="https://github.com/user-attachments/assets/661362ff-3e0d-402a-9f7a-301537dc940f" />
+<img width="2145" height="1482" alt="Capture d’écran 2025-12-05 à 12 56 47" src="https://github.com/user-attachments/assets/9b944e33-68ca-447d-a7ab-369fa265bd96" />
+<img width="2145" height="1482" alt="Capture d’écran 2025-12-05 à 12 56 52" src="https://github.com/user-attachments/assets/367bf1c2-2977-4c2c-ae55-7056734cf5c3" />
+<img width="2145" height="1482" alt="Capture d’écran 2025-12-05 à 12 57 05" src="https://github.com/user-attachments/assets/774c3b1e-0ae1-497e-ba30-f9ccfbde5d13" />
+<img width="2145" height="1482" alt="Capture d’écran 2025-12-05 à 12 57 09" src="https://github.com/user-attachments/assets/bfb5bc51-fd39-4c90-9e48-33717d327dda" />
+
+        
         <a href="https://github.com/user-attachments/assets/8cce4b7e-b354-4fdf-966f-d0361384bdd8"><img width="150" alt="Capture d’écran 2025-09-28 à 00 40 12" src="https://github.com/user-attachments/assets/8cce4b7e-b354-4fdf-966f-d0361384bdd8" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
         <a href="https://github.com/user-attachments/assets/41bf58ab-9e86-4e91-af3b-fffba35c3074"><img width="150" alt="Capture d’écran 2025-09-28 à 00 40 46" src="https://github.com/user-attachments/assets/41bf58ab-9e86-4e91-af3b-fffba35c3074" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
         <a href="https://github.com/user-attachments/assets/004f8bd7-87bd-4766-a815-ac4d7b69532f"><img width="150" alt="Capture d’écran 2025-09-28 à 00 44 38" src="https://github.com/user-attachments/assets/004f8bd7-87bd-4766-a815-ac4d7b69532f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
