@@ -53,34 +53,26 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
     </td>
   </tr>
 
-
-
-
   <tr>
     <td>
-      <h4>📁 SimplePartage</h4>
-      <p>Une application de partage de fichiers avec un système de permissions avancé, développée avec Symfony.</p>
-      <p><em>GitHub :</em> <a href="https://github.com/Lud972vic/SimplePartage">https://github.com/Lud972vic/SimplePartage</a></p>
+      <h4>📦 Stock-HUB-Multiple-Articles</h4>
+      <p>Application de gestion de stock multi-magasins , développée avec Symfony.</p>
+      <p><em>GitHub :</em> <a href="https://github.com/Lud972vic/Stock-HUB-Multiple-Articles">https://github.com/Lud972vic/Stock-HUB-Multiple-Articles</a></p>
       <p><em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</p>
     </td>
     <td align="right">
-
-<img width="150" alt="Capture d’écran 2025-12-05 à 12 55 46" src="https://github.com/user-attachments/assets/817b7d19-871e-4d4f-a626-63483fc7f757" />
-<img width="150" alt="Capture d’écran 2025-12-05 à 12 56 05" src="https://github.com/user-attachments/assets/69226eea-cd81-4bba-b4e6-a5ee9e28c741" />
-<img width="150" alt="Capture d’écran 2025-12-05 à 12 56 19" src="https://github.com/user-attachments/assets/e353996b-9f92-44b9-ad9b-fa47ab24052b" />
-<img width="150" alt="Capture d’écran 2025-12-05 à 12 56 26" src="https://github.com/user-attachments/assets/bb2887d3-768c-44b7-b0fe-afd4df935bc4" />
-<img width="150" alt="Capture d’écran 2025-12-05 à 12 56 35" src="https://github.com/user-attachments/assets/e49a0fc0-011a-4ea6-ac11-5564cac7c0b3" />
-<img width="150" alt="Capture d’écran 2025-12-05 à 12 56 42" src="https://github.com/user-attachments/assets/661362ff-3e0d-402a-9f7a-301537dc940f" />
-<img width="150" alt="Capture d’écran 2025-12-05 à 12 56 47" src="https://github.com/user-attachments/assets/9b944e33-68ca-447d-a7ab-369fa265bd96" />
-<img width="150" alt="Capture d’écran 2025-12-05 à 12 56 52" src="https://github.com/user-attachments/assets/367bf1c2-2977-4c2c-ae55-7056734cf5c3" />
-<img width="150" alt="Capture d’écran 2025-12-05 à 12 57 05" src="https://github.com/user-attachments/assets/774c3b1e-0ae1-497e-ba30-f9ccfbde5d13" />
-<img width="150" alt="Capture d’écran 2025-12-05 à 12 57 09" src="https://github.com/user-attachments/assets/bfb5bc51-fd39-4c90-9e48-33717d327dda" />
-
-        
+            <img width="150" alt="Capture d’écran 2025-12-05 à 12 55 46" src="https://github.com/user-attachments/assets/817b7d19-871e-4d4f-a626-63483fc7f757" />
+            <img width="150" alt="Capture d’écran 2025-12-05 à 12 56 05" src="https://github.com/user-attachments/assets/69226eea-cd81-4bba-b4e6-a5ee9e28c741" />
+            <img width="150" alt="Capture d’écran 2025-12-05 à 12 56 19" src="https://github.com/user-attachments/assets/e353996b-9f92-44b9-ad9b-fa47ab24052b" />
+            <img width="150" alt="Capture d’écran 2025-12-05 à 12 56 26" src="https://github.com/user-attachments/assets/bb2887d3-768c-44b7-b0fe-afd4df935bc4" />
+            <img width="150" alt="Capture d’écran 2025-12-05 à 12 56 35" src="https://github.com/user-attachments/assets/e49a0fc0-011a-4ea6-ac11-5564cac7c0b3" />
+            <img width="150" alt="Capture d’écran 2025-12-05 à 12 56 42" src="https://github.com/user-attachments/assets/661362ff-3e0d-402a-9f7a-301537dc940f" />
+            <img width="150" alt="Capture d’écran 2025-12-05 à 12 56 47" src="https://github.com/user-attachments/assets/9b944e33-68ca-447d-a7ab-369fa265bd96" />
+            <img width="150" alt="Capture d’écran 2025-12-05 à 12 56 52" src="https://github.com/user-attachments/assets/367bf1c2-2977-4c2c-ae55-7056734cf5c3" />
+            <img width="150" alt="Capture d’écran 2025-12-05 à 12 57 05" src="https://github.com/user-attachments/assets/774c3b1e-0ae1-497e-ba30-f9ccfbde5d13" />
+            <img width="150" alt="Capture d’écran 2025-12-05 à 12 57 09" src="https://github.com/user-attachments/assets/bfb5bc51-fd39-4c90-9e48-33717d327dda" />
     </td>
   </tr>
-  
-
   
   <tr style="background-color: #f6f8fa;">
     <td>
