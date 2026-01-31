@@ -39,17 +39,22 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
   <tr>
     <td>
-      <h4>📁 SimplePartage</h4>
-      <p>Une application de partage de fichiers avec un système de permissions avancé, développée avec Symfony.</p>
-      <p><em>GitHub :</em> <a href="https://github.com/Lud972vic/SimplePartage">https://github.com/Lud972vic/SimplePartage</a></p>
+      <h4>📁 Kelio Data Explorer & Importer</h4>
+      <p>Exploration, audit et import des données Kelio (salariés, absences, badgeages, organigramme) dans une base locale Symfony.</p>
+      <p><em>GitHub :</em> <a href="https://github.com/Lud972vic/POC_Kelio_Prive">https://github.com/Lud972vic/POC_Kelio_Prive</a></p>
       <p><em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</p>
     </td>
     <td align="right">
-        <a href="https://github.com/user-attachments/assets/8cce4b7e-b354-4fdf-966f-d0361384bdd8"><img width="150" alt="Capture d’écran 2025-09-28 à 00 40 12" src="https://github.com/user-attachments/assets/8cce4b7e-b354-4fdf-966f-d0361384bdd8" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
-        <a href="https://github.com/user-attachments/assets/41bf58ab-9e86-4e91-af3b-fffba35c3074"><img width="150" alt="Capture d’écran 2025-09-28 à 00 40 46" src="https://github.com/user-attachments/assets/41bf58ab-9e86-4e91-af3b-fffba35c3074" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
-        <a href="https://github.com/user-attachments/assets/004f8bd7-87bd-4766-a815-ac4d7b69532f"><img width="150" alt="Capture d’écran 2025-09-28 à 00 44 38" src="https://github.com/user-attachments/assets/004f8bd7-87bd-4766-a815-ac4d7b69532f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
-        <a href="https://github.com/user-attachments/assets/9bdc1d90-b7da-43c0-b805-4bfdeb77fa1b"><img width="150" alt="Capture d’écran 2025-09-28 à 00 45 16" src="https://github.com/user-attachments/assets/9bdc1d90-b7da-43c0-b805-4bfdeb77fa1b" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
-        <a href="https://github.com/user-attachments/assets/1f8edc71-8b70-4c30-8beb-cbe5d9d10a04"><img width="150" alt="Capture d’écran 2025-09-28 à 00 44 04" src="https://github.com/user-attachments/assets/1f8edc71-8b70-4c30-8beb-cbe5d9d10a04" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+
+    
+<img width="150" height="1045" alt="Capture d’écran 2026-01-31 à 19 41 58" src="https://github.com/user-attachments/assets/f991bcbe-ca7e-45ba-9caf-37f37bc0d688" />
+<img width="150" height="1045" alt="Capture d’écran 2026-01-31 à 19 42 10" src="https://github.com/user-attachments/assets/0de53c59-0385-45f5-8217-824676340440" />
+<img width="150" height="1045" alt="Capture d’écran 2026-01-31 à 19 42 29" src="https://github.com/user-attachments/assets/fa110458-69cb-4da3-9adc-56e9ca090edf" />
+<img width="150" height="1001" alt="Capture d’écran 2026-01-31 à 19 43 13" src="https://github.com/user-attachments/assets/4ff18858-52bc-4dfd-aef6-b87cac251c48" />
+<img width="150" height="1045" alt="Capture d’écran 2026-01-31 à 19 43 27" src="https://github.com/user-attachments/assets/221f1775-9058-4dd8-956c-d7a3b3043f2c" />
+
+    
+    
     </td>
   </tr>
 
