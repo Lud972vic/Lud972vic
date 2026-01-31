@@ -45,17 +45,11 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
       <p><em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</p>
     </td>
     <td align="right">
-
-    
 <img width="150" height="1045" alt="Capture d’écran 2026-01-31 à 19 41 58" src="https://github.com/user-attachments/assets/f991bcbe-ca7e-45ba-9caf-37f37bc0d688" />
 <img width="150" height="1045" alt="Capture d’écran 2026-01-31 à 19 42 10" src="https://github.com/user-attachments/assets/0de53c59-0385-45f5-8217-824676340440" />
 <img width="150" height="1045" alt="Capture d’écran 2026-01-31 à 19 42 29" src="https://github.com/user-attachments/assets/fa110458-69cb-4da3-9adc-56e9ca090edf" />
 <img width="150" height="1001" alt="Capture d’écran 2026-01-31 à 19 43 13" src="https://github.com/user-attachments/assets/4ff18858-52bc-4dfd-aef6-b87cac251c48" />
 <img width="150" height="1045" alt="Capture d’écran 2026-01-31 à 19 43 27" src="https://github.com/user-attachments/assets/221f1775-9058-4dd8-956c-d7a3b3043f2c" />
-
-    
-    
-    </td>
   </tr>
 
   <tr>
