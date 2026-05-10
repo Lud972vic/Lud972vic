@@ -36,7 +36,21 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
     </td>
   </tr>
 
-
+<tr>
+  <td style="vertical-align: top; padding-right: 20px;">
+    <h4>📁 Kelio Data Explorer & Importer</h4>
+    <p>Exploration, audit et import des données Kelio (salariés, absences, badgeages, organigramme) dans une base locale Symfony.</p>
+    <p><em>GitHub :</em> <a href="https://github.com/Lud972vic/POC_Kelio_Prive">https://github.com/Lud972vic/POC_Kelio_Prive</a></p>
+    <p><em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</p>
+  </td>
+  <td style="vertical-align: top; text-align: right;">
+    <img src="https://github.com/user-attachments/assets/f991bcbe-ca7e-45ba-9caf-37f37bc0d688" alt="Capture d’écran 2026-01-31 à 19 41 58" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+    <img src="https://github.com/user-attachments/assets/0de53c59-0385-45f5-8217-824676340440" alt="Capture d’écran 2026-01-31 à 19 42 10" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+    <img src="https://github.com/user-attachments/assets/fa110458-69cb-4da3-9adc-56e9ca090edf" alt="Capture d’écran 2026-01-31 à 19 42 29" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+    <img src="https://github.com/user-attachments/assets/4ff18858-52bc-4dfd-aef6-b87cac251c48" alt="Capture d’écran 2026-01-31 à 19 43 13" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+    <img src="https://github.com/user-attachments/assets/221f1775-9058-4dd8-956c-d7a3b3043f2c" alt="Capture d’écran 2026-01-31 à 19 43 27" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+  </td>
+</tr>
 
 
 
