@@ -52,7 +52,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <img width="150" height="1045" alt="Capture d’écran 2026-01-31 à 19 43 27" src="https://github.com/user-attachments/assets/221f1775-9058-4dd8-956c-d7a3b3043f2c" />
   </tr>
 
-  <tr>
+
       
   <tr>
     <td>
