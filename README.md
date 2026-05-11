@@ -10,8 +10,6 @@ Récemment, j'ai attrapé le virus de l'IA, des LLMs et du 'vibe coding'. J'exp�
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
-<table width="100%">   
-      
       <tr style="background-color: #f6f8fa;">
             <td style="vertical-align: top; padding-right: 20px;">
               <h4>🛒 ALDI Mobile Inventaire Picking</h4>
@@ -26,7 +24,10 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
               <a href="https://github.com/user-attachments/assets/abe186ae-818b-4488-b1cc-f90bdba33883"><img width="150" alt="" src="https://github.com/user-attachments/assets/abe186ae-818b-4488-b1cc-f90bdba33883" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
             </td>
       </tr>
+
+<table width="100%">   
       
+     
     <tr style="background-color: #f6f8fa;">
     <td>
       <h4>📦 HubStock</h4>
