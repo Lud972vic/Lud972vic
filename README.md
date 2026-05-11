@@ -12,26 +12,20 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <table width="100%">   
       <tr style="background-color: #f6f8fa;">
-      <td>
-        <h4>🛒 ALDI Mobile Inventaire Picking</h4>
-        <p>Parce que compter des cartons ne devrait pas être une punition, mais une expérience Turbo-chargée !</p>
-        <p>Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier,</p>
-        <p>le crayon qui casse et la connexion Wi-Fi qui vous lâche au</p>
-        <p>milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !</p>
-      </td>
-      <td align="right">
-        <td><img width="150" alt="Capture d’écran 1" src="https://github.com/user-attachments/assets/abe186ae-818b-4488-b1cc-f90bdba33883" /></td>
-        <td><img width="150" alt="Capture d’écran 2" src="https://github.com/user-attachments/assets/dc3ecef2-33d1-44ad-a4a0-ffd7a4c3280f" /></td>
-        <td><img width="150" alt="Capture d’écran 3" src="https://github.com/user-attachments/assets/20209eea-7b69-47b1-bff6-d90764fec05a" /></td>
-    </td>
-  </tr>
+            <td>
+              <h4>🛒 ALDI Mobile Inventaire Picking</h4>
+              <p>Parce que compter des cartons ne devrait pas être une punition, mais une expérience Turbo-chargée !</p>
+              <p>Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier,</p>
+              <p>le crayon qui casse et la connexion Wi-Fi qui vous lâche au</p>
+              <p>milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !</p>
+            </td>
+            <td align="right">
+              <a href="https://github.com/user-attachments/assets/20209eea-7b69-47b1-bff6-d90764fec05a"><img width="150" alt="" src="https://github.com/user-attachments/assets/20209eea-7b69-47b1-bff6-d90764fec05a" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+              <a href="https://github.com/user-attachments/assets/dc3ecef2-33d1-44ad-a4a0-ffd7a4c3280f"><img width="150" alt="" src="https://github.com/user-attachments/assets/dc3ecef2-33d1-44ad-a4a0-ffd7a4c3280f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+              <a href="https://github.com/user-attachments/assets/abe186ae-818b-4488-b1cc-f90bdba33883"><img width="150" alt="" src="https://github.com/user-attachments/assets/abe186ae-818b-4488-b1cc-f90bdba33883" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+            </td>
+      </tr>
 </table>
-
-
-
-
-
-
 
 <table width="100%">   
     <tr style="background-color: #f6f8fa;">
