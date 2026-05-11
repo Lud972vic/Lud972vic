@@ -10,20 +10,21 @@ Récemment, j'ai attrapé le virus de l'IA, des LLMs et du 'vibe coding'. J'exp�
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
-
-  🛒 ALDI Mobile Inventaire Picking 📦
-
-  "Parce que compter des cartons ne devrait pas être une punition, mais une expérience Turbo-chargée !"
-
-  Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier, le crayon qui casse et la connexion Wi-Fi qui vous lâche au
-  milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !
-  
 <table width="100%">   
-      <tr>
+      <tr style="background-color: #f6f8fa;">
+      <td>
+        <h4>🛒 ALDI Mobile Inventaire Picking</h4>
+        <p>Parce que compter des cartons ne devrait pas être une punition, mais une expérience Turbo-chargée !</p>
+        <p>Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier,</p>
+        <p>le crayon qui casse et la connexion Wi-Fi qui vous lâche au</p>
+        <p>milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !</p>
+      </td>
+      <td align="right">
         <td><img width="150" alt="Capture d’écran 1" src="https://github.com/user-attachments/assets/abe186ae-818b-4488-b1cc-f90bdba33883" /></td>
         <td><img width="150" alt="Capture d’écran 2" src="https://github.com/user-attachments/assets/dc3ecef2-33d1-44ad-a4a0-ffd7a4c3280f" /></td>
         <td><img width="150" alt="Capture d’écran 3" src="https://github.com/user-attachments/assets/20209eea-7b69-47b1-bff6-d90764fec05a" /></td>
-      </tr>
+    </td>
+  </tr>
 </table>
 
 
