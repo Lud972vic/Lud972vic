@@ -26,7 +26,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
               <a href="https://github.com/user-attachments/assets/20209eea-7b69-47b1-bff6-d90764fec05a"><img width="150" alt="" src="https://github.com/user-attachments/assets/20209eea-7b69-47b1-bff6-d90764fec05a" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
               <a href="https://github.com/user-attachments/assets/dc3ecef2-33d1-44ad-a4a0-ffd7a4c3280f"><img width="150" alt="" src="https://github.com/user-attachments/assets/dc3ecef2-33d1-44ad-a4a0-ffd7a4c3280f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
               <a href="https://github.com/user-attachments/assets/abe186ae-818b-4488-b1cc-f90bdba33883"><img width="150" alt="" src="https://github.com/user-attachments/assets/abe186ae-818b-4488-b1cc-f90bdba33883" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
-        <td><img width="300" alt="Capture d’écran 2026-05-13 à 22 29 44" src="https://github.com/user-attachments/assets/45ff8a0c-b273-43da-a3d7-a4ff67e9b09b" /></td>
+        </td>
+                    <td><img width="300" alt="Capture d’écran 2026-05-13 à 22 29 44" src="https://github.com/user-attachments/assets/45ff8a0c-b273-43da-a3d7-a4ff67e9b09b" /></td>
         <td><img width="300" alt="Capture d’écran 2026-05-13 à 22 29 17" src="https://github.com/user-attachments/assets/18d7258a-bdfa-42a8-8996-c2e700eda969" /></td>
         <td><img width="300" alt="Capture d’écran 2026-05-13 à 22 28 54" src="https://github.com/user-attachments/assets/0e11aa18-7c70-4309-864d-def52fa07f62" /></td>
         <td><img width="300" alt="Capture d’écran 2026-05-13 à 22 28 30" src="https://github.com/user-attachments/assets/e76c4878-982f-4296-ba6f-ea68ad3066aa" /></td>
@@ -38,7 +39,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
         <td><img width="300" alt="Capture d’écran 2026-05-13 à 22 25 34" src="https://github.com/user-attachments/assets/f664f893-7561-4527-88b3-1e6f345b5ddf" /></td>
         <td><img width="300" alt="Capture d’écran 2026-05-13 à 22 25 22" src="https://github.com/user-attachments/assets/5b07659d-0519-4279-960c-ca4ec09bcd17" /></td>
         <td><img width="300" alt="Capture d’écran 2026-05-13 à 22 24 43" src="https://github.com/user-attachments/assets/92a54018-9dc1-4763-8ab8-63e17e7cb6ee" /></td>
-        </td>
       </tr>
 
      
