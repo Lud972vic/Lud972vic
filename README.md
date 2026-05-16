@@ -17,7 +17,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
             <td style="vertical-align: top; padding-right: 20px;">
               <h4>Jaya</h4>
               <p>Le projet qui va (peut-être) changer le monde de la restauration</p>
-              <a href="https://github.com/Lud972vic/Jaya">Le projet en détail</a>
+              <a href="https://github.com/Lud972vic/Jaya-Presentation">Le projet en détail</a>
             </td>
             <td style="vertical-align: top; text-align: right;">
                     <a href="https://github.com/user-attachments/assets/77272af7-df0b-4c76-b229-46ad9910083f"><img width="150" alt="" src="https://github.com/user-attachments/assets/77272af7-df0b-4c76-b229-46ad9910083f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a> 
