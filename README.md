@@ -20,7 +20,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
               <p>Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier,</p>
               <p>le crayon qui casse et la connexion Wi-Fi qui vous lâche au</p>
               <p>milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !</p>
-              <a href="https://github.com/Lud972vic/Mobile-Inventaire-Picking">Projet privé</a>
+              <a href="https://github.com/Lud972vic/Mobile-Inventaire-Picking">Projet voir la vidéo démo</a>
             </td>
             <td style="vertical-align: top; text-align: right;">
                     <a href="https://github.com/user-attachments/assets/7ca4727b-42cd-46db-addc-66d6474f85bf"><img width="150" alt="" src="https://github.com/user-attachments/assets/7ca4727b-42cd-46db-addc-66d6474f85bf" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>   
