@@ -15,6 +15,18 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <tr style="background-color: #f6f8fa;">
             <td style="vertical-align: top; padding-right: 20px;">
+              <h4>Jaya</h4>
+              <p>Le projet qui va (peut-être) changer le monde de la restauration</p>
+              <a href="https://github.com/Lud972vic/Jaya">Le projet en détail</a>
+            </td>
+            <td style="vertical-align: top; text-align: right;">
+                    <a href="https://github.com/user-attachments/assets/77272af7-df0b-4c76-b229-46ad9910083f"><img width="150" alt="" src="https://github.com/user-attachments/assets/77272af7-df0b-4c76-b229-46ad9910083f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a> 
+            </td>      
+</tr>
+
+
+<tr style="background-color: #f6f8fa;">
+            <td style="vertical-align: top; padding-right: 20px;">
               <h4>🛒 ALDI Mobile Inventaire Picking</h4>
               <p>Parce que compter des cartons ne devrait pas être une punition, mais une expérience Turbo-chargée (Symfony PHP Turbo) !</p>
               <p>Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier,</p>
