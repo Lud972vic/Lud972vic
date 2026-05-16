@@ -16,7 +16,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <tr style="background-color: #f6f8fa;">
             <td style="vertical-align: top; padding-right: 20px;">
               <h4>🛒 ALDI Mobile Inventaire Picking</h4>
-              <p>Parce que compter des cartons ne devrait pas être une punition, mais une expérience Turbo-chargée !</p>
+              <p>Parce que compter des cartons ne devrait pas être une punition, mais une expérience Turbo-chargée (Symfony PHP Turbo) !</p>
               <p>Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier,</p>
               <p>le crayon qui casse et la connexion Wi-Fi qui vous lâche au</p>
               <p>milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !</p>
