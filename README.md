@@ -37,6 +37,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
               <a href="https://github.com/Lud972vic/Mobile-Inventaire-Picking">Projet voir la vidéo démo</a>
             </td>
             <td style="vertical-align: top; text-align: right;">
+                    <a href="https://github.com/user-attachments/assets/c85d5748-a66a-4ab0-ad1a-2a85315c3403"><img width="320" height="694" alt="Mobile" src="https://github.com/user-attachments/assets/c85d5748-a66a-4ab0-ad1a-2a85315c3403" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+                    <a href="https://github.com/user-attachments/assets/34b5b65e-f35b-43d0-b452-0c3fe38c4611"><img width="320" height="694" alt="Desktop" src="https://github.com/user-attachments/assets/34b5b65e-f35b-43d0-b452-0c3fe38c4611" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
                     <a href="https://github.com/user-attachments/assets/7ca4727b-42cd-46db-addc-66d6474f85bf"><img width="150" alt="" src="https://github.com/user-attachments/assets/7ca4727b-42cd-46db-addc-66d6474f85bf" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>   
                     <a href="https://github.com/user-attachments/assets/0bd4a334-fc20-4d70-90a1-abe22b6ee7ce"><img width="150" alt="" src="https://github.com/user-attachments/assets/0bd4a334-fc20-4d70-90a1-abe22b6ee7ce" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
                     <a href="https://github.com/user-attachments/assets/8ebdb8d9-a894-48ac-ae57-7d92d8e79071"><img width="150" alt="" src="https://github.com/user-attachments/assets/8ebdb8d9-a894-48ac-ae57-7d92d8e79071" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
@@ -51,12 +53,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
                     <a href="https://github.com/user-attachments/assets/f06b789b-bcf3-4b8a-b29f-34412c5d9a11"><img width="150" alt="" src="https://github.com/user-attachments/assets/f06b789b-bcf3-4b8a-b29f-34412c5d9a11" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
                     <a href="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1"><img width="150" alt="" src="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
                     <a href="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1"><img width="150" alt="" src="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
-
-
-
-
-                        
-
             </td>      
 </tr>
      
