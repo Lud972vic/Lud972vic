@@ -51,7 +51,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
                     <a href="https://github.com/user-attachments/assets/f06b789b-bcf3-4b8a-b29f-34412c5d9a11"><img width="150" alt="" src="https://github.com/user-attachments/assets/f06b789b-bcf3-4b8a-b29f-34412c5d9a11" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
                     <a href="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1"><img width="150" alt="" src="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
                     <a href="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1"><img width="150" alt="" src="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
-                    <a href="https://github.com/user-attachments/assets/c85d5748-a66a-4ab0-ad1a-2a85315c3403"><img width="320" height="694" alt="Mobile" src="https://github.com/user-attachments/assets/c85d5748-a66a-4ab0-ad1a-2a85315c3403" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
+
 
 
 
