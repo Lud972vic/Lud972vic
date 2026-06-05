@@ -15,6 +15,17 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <tr style="background-color: #f6f8fa;">
             <td style="vertical-align: top; padding-right: 20px;">
+              <h4>Kelio POC</h4>
+              <p>Application desktop 100% locale pour extraire, stocker et consulter les données Kelio via ses Web Services SOAP — sans serveur, sans PHP, sans larmes (ou presque).</p>
+              <a href="https://github.com/Lud972vic/Kelio-Electron">Le projet en détail</a>
+            </td>
+            <td style="vertical-align: top; text-align: right;">
+                    <a href="https://github.com/user-attachments/assets/0ea5e012-25b4-4969-9347-9b9a9e3bd9e5"><img width="500" alt="" src="https://github.com/user-attachments/assets/0ea5e012-25b4-4969-9347-9b9a9e3bd9e5" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a> 
+            </td>      
+</tr>
+
+<tr style="background-color: #f6f8fa;">
+            <td style="vertical-align: top; padding-right: 20px;">
               <h4>Jaya</h4>
               <p>Le projet qui va (peut-être) changer le monde de la restauration</p>
               <a href="https://github.com/Lud972vic/Jaya-Presentation">Le projet en détail</a>
@@ -23,17 +34,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
                     <a href="https://github.com/user-attachments/assets/77272af7-df0b-4c76-b229-46ad9910083f"><img width="150" alt="" src="https://github.com/user-attachments/assets/77272af7-df0b-4c76-b229-46ad9910083f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a> 
                     <a href="https://github.com/user-attachments/assets/77bb0015-fb9e-467b-8787-e1efe2d264b2"><img width="150" alt="" src="https://github.com/user-attachments/assets/77bb0015-fb9e-467b-8787-e1efe2d264b2" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
                     <a href="https://github.com/user-attachments/assets/9241e9e2-911d-407f-84bd-fc56eb3158bf"><img width="150" alt="" src="https://github.com/user-attachments/assets/9241e9e2-911d-407f-84bd-fc56eb3158bf" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a>
-            </td>      
-</tr>
-
-<tr style="background-color: #f6f8fa;">
-            <td style="vertical-align: top; padding-right: 20px;">
-              <h4>Kelio POC</h4>
-              <p>Application desktop 100% locale pour extraire, stocker et consulter les données Kelio via ses Web Services SOAP — sans serveur, sans PHP, sans larmes (ou presque).</p>
-              <a href="https://github.com/Lud972vic/Kelio-Electron">Le projet en détail</a>
-            </td>
-            <td style="vertical-align: top; text-align: right;">
-                    <a href="https://github.com/user-attachments/assets/0ea5e012-25b4-4969-9347-9b9a9e3bd9e5"><img width="150" alt="" src="https://github.com/user-attachments/assets/0ea5e012-25b4-4969-9347-9b9a9e3bd9e5" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a> 
             </td>      
 </tr>
 
