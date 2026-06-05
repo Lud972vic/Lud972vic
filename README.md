@@ -26,6 +26,16 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
             </td>      
 </tr>
 
+<tr style="background-color: #f6f8fa;">
+            <td style="vertical-align: top; padding-right: 20px;">
+              <h4>Kelio POC</h4>
+              <p>Application desktop 100% locale pour extraire, stocker et consulter les données Kelio via ses Web Services SOAP — sans serveur, sans PHP, sans larmes (ou presque).</p>
+              <a href="https://github.com/Lud972vic/Kelio-Electron">Le projet en détail</a>
+            </td>
+            <td style="vertical-align: top; text-align: right;">
+                    <a href="https://github.com/user-attachments/assets/0ea5e012-25b4-4969-9347-9b9a9e3bd9e5"><img width="150" alt="" src="https://github.com/user-attachments/assets/0ea5e012-25b4-4969-9347-9b9a9e3bd9e5" style="box-shadow: 0 0 10px rgba(0,0,0,0.5);" /></a> 
+            </td>      
+</tr>
 
 <tr style="background-color: #f6f8fa;">
             <td style="vertical-align: top; padding-right: 20px;">
