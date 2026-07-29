@@ -90,6 +90,11 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
   <li>🟣 <strong>Enterprise</strong> — 8 000€/projet (on-premise, formation, support dédié)</li>
 </ul>
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Lud972vic/SyncPoint/main/captures/02-dashboard.png"><img width="200" alt="Dashboard SyncPoint" src="https://raw.githubusercontent.com/Lud972vic/SyncPoint/main/captures/02-dashboard.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/SyncPoint/main/captures/18-onlyoffice-xlsx.png"><img width="200" alt="Édition OnlyOffice Excel" src="https://raw.githubusercontent.com/Lud972vic/SyncPoint/main/captures/18-onlyoffice-xlsx.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+</p>
+
 </td>
 </tr>
 
@@ -122,6 +127,11 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png"><img src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png" alt="Landing page Fiches Produits" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png"><img width="200" alt="Dashboard" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png"><img width="200" alt="Édition de template" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
 </p>
 
 <details>
