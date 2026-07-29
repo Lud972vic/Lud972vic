@@ -239,7 +239,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <img src="https://img.shields.io/github/forks/Lud972vic/HubStock?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/HubStock?style=flat-square&color=orange" alt="Top language" /></p>
 
-<p>Une application web pour la gestion de magasins, de matériels et de leurs affectations, avec une traçabilité complète et un historique des mouvements de stock.</p>
+<p>Une application web pour la gestion de magasins, de matériels et de leurs affectations,<br/>avec une traçabilité complète et un historique des mouvements de stock.</p>
 
 <p>
 <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
