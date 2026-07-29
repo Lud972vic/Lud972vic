@@ -31,6 +31,48 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 0 12px;">
 
+<!-- ===== Landing Page — Fiches Produits ===== -->
+<tr>
+<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+
+<h4>🎨 Landing Page — Fiches Produits</h4>
+
+<p><em>Parce que faire des fiches produits à la main, c'est tellement 2000.</em></p>
+
+<p>Transformez un fichier Excel en présentation PowerPoint éditable en quelques clics. Import. Template. Génération. Profitez. ☕</p>
+
+<p>Site de présentation de l'application <strong>Fiches Produits</strong> (Excel → PowerPoint) : une landing page qui présente les fonctionnalités de l'app au reste du monde.</p>
+
+<ul>
+  <li>🌐 <em>Site en ligne :</em> <a href="https://lud972vic.github.io/landing-page-fiches-produits/">https://lud972vic.github.io/landing-page-fiches-produits/</a></li>
+  <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/landing-page-fiches-produits">https://github.com/Lud972vic/landing-page-fiches-produits</a></li>
+  <li>🛠️ <em>Technologies :</em> HTML, CSS, JavaScript vanilla</li>
+</ul>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png"><img src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png" alt="Landing page Fiches Produits" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+</p>
+
+<details>
+<summary>📷 Voir les captures de l'application Fiches Produits</summary>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png"><img width="150" alt="Dashboard" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/01-imports-list.png"><img width="150" alt="Imports list" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/01-imports-list.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/05-import-form.png"><img width="150" alt="Import form" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/05-import-form.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/06-import-detail.png"><img width="150" alt="Import detail" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/06-import-detail.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/02-templates-list.png"><img width="150" alt="Templates list" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/02-templates-list.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png"><img width="150" alt="Template edit" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/03-generations-list.png"><img width="150" alt="Generations list" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/03-generations-list.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/08-generation-form.png"><img width="150" alt="Generation form" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/08-generation-form.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/09-generation-detail.png"><img width="150" alt="Generation detail" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/09-generation-detail.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+</p>
+
+</details>
+
+</td>
+</tr>
+
 <!-- ===== Kelio POC ===== -->
 <tr>
 <td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
