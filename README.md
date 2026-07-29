@@ -46,14 +46,6 @@ Récemment, j'ai attrapé le virus de l'**IA**, des **LLMs** et du *'vibe coding
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Lud972vic&label=Visiteurs&color=003399&style=flat-square" alt="Visitor count" />
-
-</div>
-
----
-
 ## Mes Projets
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
