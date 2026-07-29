@@ -1,3 +1,8 @@
+<!-- Bannière animée -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:777BB4,50:000000,100:777BB4&height=180&section=header&text=Ludovic&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=Concepteur+D%C3%A9veloppeur+PHP+%26+Symfony&descAlignY=58&descSize=16&animation=fadeIn&stroke=000000&strokeWidth=0" alt="bannière" width="100%" />
+</div>
+
 <div align="center">
 
 # Salut, moi c'est Ludovic ! 👋
@@ -38,16 +43,26 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>🎨 Landing Page — Fiches Produits</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-En_ligne-brightgreen?style=flat-square" alt="En ligne" />
+<img src="https://img.shields.io/github/stars/Lud972vic/landing-page-fiches-produits?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Lud972vic/landing-page-fiches-produits?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/landing-page-fiches-produits?style=flat-square&color=orange" alt="Top language" /></p>
+
 <p><em>Parce que faire des fiches produits à la main, c'est tellement 2000.</em></p>
 
 <p>Transformez un fichier Excel en présentation PowerPoint éditable en quelques clics. Import. Template. Génération. Profitez. ☕</p>
 
 <p>Site de présentation de l'application <strong>Fiches Produits</strong> (Excel → PowerPoint) : une landing page qui présente les fonctionnalités de l'app au reste du monde.</p>
 
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
 <ul>
   <li>🌐 <em>Site en ligne :</em> <a href="https://lud972vic.github.io/landing-page-fiches-produits/">https://lud972vic.github.io/landing-page-fiches-produits/</a></li>
   <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/landing-page-fiches-produits">https://github.com/Lud972vic/landing-page-fiches-produits</a></li>
-  <li>🛠️ <em>Technologies :</em> HTML, CSS, JavaScript vanilla</li>
 </ul>
 
 <p align="center">
@@ -80,7 +95,18 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>🖥️ Kelio POC</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
+<img src="https://img.shields.io/github/stars/Lud972vic/Kelio-Electron?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Lud972vic/Kelio-Electron?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/Kelio-Electron?style=flat-square&color=orange" alt="Top language" /></p>
+
 <p>Application desktop 100% locale pour extraire, stocker et consulter les données Kelio via ses Web Services SOAP — sans serveur, sans PHP, sans larmes (ou presque).</p>
+
+<p>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SOAP-FF6C37?style=flat-square" alt="SOAP" />
+</p>
 
 <p>🔗 <a href="https://github.com/Lud972vic/Kelio-Electron">Le projet en détail</a></p>
 
@@ -96,6 +122,11 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
 
 <h4>🍽️ Jaya</h4>
+
+<p><img src="https://img.shields.io/badge/Statut-En_cours-yellow?style=flat-square" alt="En cours" />
+<img src="https://img.shields.io/github/stars/Lud972vic/Jaya-Presentation?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Lud972vic/Jaya-Presentation?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/Jaya-Presentation?style=flat-square&color=orange" alt="Top language" /></p>
 
 <p>Le projet qui va (peut-être) changer le monde de la restauration.</p>
 
@@ -116,9 +147,21 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>🛒 ALDI Mobile Inventaire Picking</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
+<img src="https://img.shields.io/github/stars/Lud972vic/Mobile-Inventaire-Picking?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Lud972vic/Mobile-Inventaire-Picking?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/Mobile-Inventaire-Picking?style=flat-square&color=orange" alt="Top language" /></p>
+
 <p><em>Parce que compter des cartons ne devrait pas être une punition, mais une expérience Turbo-chargée (Symfony PHP Turbo) !</em></p>
 
 <p>Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier, le crayon qui casse et la connexion Wi-Fi qui vous lâche au milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !</p>
+
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/PHP_Turbo-777BB4?style=flat-square" alt="PHP Turbo" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 <p>🔗 <a href="https://github.com/Lud972vic/Mobile-Inventaire-Picking">Projet — voir la vidéo démo</a></p>
 
@@ -157,12 +200,24 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>📦 HubStock</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-En_ligne-brightgreen?style=flat-square" alt="En ligne" />
+<img src="https://img.shields.io/github/stars/Lud972vic/HubStock?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Lud972vic/HubStock?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/HubStock?style=flat-square&color=orange" alt="Top language" /></p>
+
 <p>Une application web pour la gestion de magasins, de matériels et de leurs affectations, avec une traçabilité complète et un historique des mouvements de stock.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 <ul>
   <li>🌐 <em>Site en ligne :</em> <a href="https://lud972vic-hubstock.great-site.net/public/login">Site en ligne</a></li>
   <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/HubStock">https://github.com/Lud972vic/HubStock</a></li>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</li>
 </ul>
 
 <p align="center">
@@ -198,11 +253,23 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>📁 Kelio Data Explorer & Importer</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
+<img src="https://img.shields.io/github/stars/Lud972vic/POC_Kelio_Prive?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Lud972vic/POC_Kelio_Prive?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/POC_Kelio_Prive?style=flat-square&color=orange" alt="Top language" /></p>
+
 <p>Exploration, audit et import des données Kelio (salariés, absences, badgeages, organigramme) dans une base locale Symfony.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 <ul>
   <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/POC_Kelio_Prive">https://github.com/Lud972vic/POC_Kelio_Prive</a></li>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</li>
 </ul>
 
 <p align="center">
@@ -222,11 +289,23 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>📁 SimplePartage</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
+<img src="https://img.shields.io/github/stars/Lud972vic/SimplePartage?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Lud972vic/SimplePartage?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/SimplePartage?style=flat-square&color=orange" alt="Top language" /></p>
+
 <p>Une application de partage de fichiers avec un système de permissions avancé, développée avec Symfony.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 <ul>
   <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/SimplePartage">https://github.com/Lud972vic/SimplePartage</a></li>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</li>
 </ul>
 
 <p align="center">
@@ -246,11 +325,23 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>📦 Stock HUB Multiple articles</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
+<img src="https://img.shields.io/github/stars/Lud972vic/Stock-HUB-Multiple-Articles?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Lud972vic/Stock-HUB-Multiple-Articles?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/Stock-HUB-Multiple-Articles?style=flat-square&color=orange" alt="Top language" /></p>
+
 <p>Application de gestion de stock multi-magasins, développée avec Symfony.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 <ul>
   <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/Stock-HUB-Multiple-Articles">https://github.com/Lud972vic/Stock-HUB-Multiple-Articles</a></li>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</li>
 </ul>
 
 <p align="center">
@@ -283,18 +374,17 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>💰 RrR (Rabais - Remises - Ristournes)</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-En_cours-yellow?style=flat-square" alt="En cours" /></p>
+
 <p>Une solution pour la gestion des RRR, le calcul et le suivi commercial. <em>Projet en cours en collaboration avec <a href="https://github.com/titibox91L">titibox91L</a>.</em></p>
 
-<ul>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap, Ajax</li>
-</ul>
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/22a25300-ea18-4664-9167-612ffb38406c"><img width="150" alt="Capture d'écran 2025-09-25 à 20 59 51" src="https://github.com/user-attachments/assets/22a25300-ea18-4664-9167-612ffb38406c" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
-  <a href="https://github.com/user-attachments/assets/26f14c2d-141b-45ce-8f7c-0240f8caa06e"><img width="150" alt="Capture d'écran 2025-09-25 à 21 00 23" src="https://github.com/user-attachments/assets/26f14c2d-141b-45ce-8f7c-0240f8caa06e" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
-  <a href="https://github.com/user-attachments/assets/80bb95dc-e96a-4bad-833a-1744605293e3"><img width="150" alt="Capture d'écran 2025-09-25 à 21 02 13" src="https://github.com/user-attachments/assets/80bb95dc-e96a-4bad-833a-1744605293e3" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
-  <a href="https://github.com/user-attachments/assets/2a6cee75-1e3a-4bc2-91c3-801af72a051d"><img width="150" alt="Capture d'écran 2025-09-25 à 21 02 55" src="https://github.com/user-attachments/assets/2a6cee75-1e3a-4bc2-91c3-801af72a051d" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
-  <a href="https://github.com/user-attachments/assets/b2204769-2fe6-46db-8cca-d9795bea05b0"><img width="150" alt="Capture d'écran 2025-09-25 à 21 03 58" src="https://github.com/user-attachments/assets/b2204769-2fe6-46db-8cca-d9795bea05b0" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Ajax-0096D6?style=flat-square" alt="Ajax" />
 </p>
 
 </td>
@@ -306,11 +396,24 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>📊 MonitoringJobs</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
+<img src="https://img.shields.io/github/stars/Lud972vic/MonitoringJobs?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Lud972vic/MonitoringJobs?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/MonitoringJobs?style=flat-square&color=orange" alt="Top language" /></p>
+
 <p>Une interface web pour lancer et surveiller des traitements à distance (ex: jobs Talend).</p>
+
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Ajax-0096D6?style=flat-square" alt="Ajax" />
+</p>
 
 <ul>
   <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/MonitoringJobs">https://github.com/Lud972vic/MonitoringJobs</a></li>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap, Ajax</li>
 </ul>
 
 <p align="center">
@@ -329,11 +432,17 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>💸 FA — Facturation Automatique</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-En_cours-yellow?style=flat-square" alt="En cours" /></p>
+
 <p>Migration d'une application Microsoft Access VBA vers une application Web. <em>Projet en cours.</em></p>
 
-<ul>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</li>
-</ul>
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/1b65c7dc-92d3-4f6d-a8dd-c537e9bcdb3a"><img width="150" alt="Capture d'écran 2025-02-22 à 18 04 41" src="https://github.com/user-attachments/assets/1b65c7dc-92d3-4f6d-a8dd-c537e9bcdb3a" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
@@ -350,11 +459,23 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>🧑‍💼 RH OnboardingRH</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
+<img src="https://img.shields.io/github/stars/Lud972vic/OnboardingRH?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+<img src="https://img.shields.io/github/forks/Lud972vic/OnboardingRH?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/OnboardingRH?style=flat-square&color=orange" alt="Top language" /></p>
+
 <p>Projet Onboarding RH.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 <ul>
   <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/OnboardingRH">https://github.com/Lud972vic/OnboardingRH</a></li>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap</li>
 </ul>
 
 <p align="center">
@@ -370,11 +491,18 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>🎨 Portfolio</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-Hors_ligne-lightgrey?style=flat-square" alt="Hors ligne" /></p>
+
 <p>Portfolio en cours. *(serveur offline)*</p>
 
-<ul>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap, Ajax</li>
-</ul>
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Ajax-0096D6?style=flat-square" alt="Ajax" />
+</p>
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/5c556474-69f6-443c-a4ef-f17fa4a58c37"><img width="150" alt="233829059-ae0204c3-bcd8-449b-bf5d-ad70b94a4e33" src="https://github.com/user-attachments/assets/5c556474-69f6-443c-a4ef-f17fa4a58c37" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
@@ -390,11 +518,18 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>🏖️ Melys Location</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-Hors_ligne-lightgrey?style=flat-square" alt="Hors ligne" /></p>
+
 <p>Projet de location de biens pour les vacances. *(serveur offline)*</p>
 
-<ul>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap, Ajax</li>
-</ul>
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Ajax-0096D6?style=flat-square" alt="Ajax" />
+</p>
 
 <p align="center">
   <a href="https://user-images.githubusercontent.com/52196263/233828519-4d12592d-3bbc-4950-a6c5-2b0c53292c70.png"><img width="150" alt="Capture d'écran du 2023-04-23 10-22-15" src="https://user-images.githubusercontent.com/52196263/233828519-4d12592d-3bbc-4950-a6c5-2b0c53292c70.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
@@ -409,11 +544,18 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>📸 Juste un regard</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-Hors_ligne-lightgrey?style=flat-square" alt="Hors ligne" /></p>
+
 <p>Ancien projet de site photo avec blog, cartographie, modération, tchat... *(serveur offline)*</p>
 
-<ul>
-  <li>🛠️ <em>Technologies :</em> Symfony, PHP, JavaScript, MySQL, HTML/CSS, Bootstrap, Ajax</li>
-</ul>
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Ajax-0096D6?style=flat-square" alt="Ajax" />
+</p>
 
 <p align="center">
   <a href="https://user-images.githubusercontent.com/52196263/233828959-6ea0bbfc-b128-4168-8196-f0e65769c693.png"><img width="150" alt="84150556-4e931380-aa62-11ea-8ec0-5a33c38e9bf9" src="https://user-images.githubusercontent.com/52196263/233828959-6ea0bbfc-b128-4168-8196-f0e65769c693.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
@@ -428,11 +570,18 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>🧠 Minis Quizs</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-En_ligne-brightgreen?style=flat-square" alt="En ligne" /></p>
+
 <p>Des minis Quizs.</p>
+
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 <ul>
   <li>🌐 <em>GitHub Pages :</em> <a href="https://lud972vic.github.io/Quizs/">https://lud972vic.github.io/Quizs/</a></li>
-  <li>🛠️ <em>Technologies :</em> HTML, Bootstrap, JavaScript</li>
 </ul>
 
 <p align="center">
@@ -448,11 +597,18 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <h4>📍 PinALDI</h4>
 
+<p><img src="https://img.shields.io/badge/Statut-En_ligne-brightgreen?style=flat-square" alt="En ligne" /></p>
+
 <p>Les entrepôts et les magasins LIDL.</p>
+
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 <ul>
   <li>🌐 <em>GitHub Pages :</em> <a href="https://lud972vic.github.io/PinALDI/">https://lud972vic.github.io/PinALDI/</a></li>
-  <li>🛠️ <em>Technologies :</em> HTML, Bootstrap, JavaScript</li>
 </ul>
 
 <p align="center">
@@ -517,7 +673,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-## � Statistiques GitHub
+## 📊 Statistiques GitHub
 
 <div align="center">
 
@@ -564,7 +720,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-## �📫 Comment me contacter
+## 📫 Comment me contacter
 
 <div align="center">
 
@@ -572,4 +728,9 @@ N'hésitez pas à me contacter si vous avez des questions, des propositions de c
 
 <a href="mailto:eurekaludo@free.fr"><img src="https://img.shields.io/badge/Email-eurekaludo@free.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+</div>
+
+<!-- Bannière de bas de page -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:777BB4,50:000000,100:777BB4&height=120&section=footer&fontSize=0" alt="footer" width="100%" />
 </div>
