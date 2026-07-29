@@ -202,9 +202,9 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <img src="https://img.shields.io/github/forks/Lud972vic/Mobile-Inventaire-Picking?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/Mobile-Inventaire-Picking?style=flat-square&color=orange" alt="Top language" /></p>
 
-<p><em>Parce que compter des cartons ne devrait pas être une punition, mais une expérience Turbo-chargée (Symfony PHP Turbo) !</em></p>
+<p><em>Parce que compter des cartons ne devrait pas être une punition,<br/>mais une expérience Turbo-chargée (Symfony PHP Turbo) !</em></p>
 
-<p>Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier, le crayon qui casse et la connexion Wi-Fi qui vous lâche au milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !</p>
+<p>Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI.<br/>Fini le papier, le crayon qui casse et la connexion Wi-Fi qui vous lâche au milieu de l'allée 4.<br/>Cette application transforme votre smartphone en un scanner de compétition,<br/>même si vous êtes enterré au fond de la réserve !</p>
 
 <p>
 <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
