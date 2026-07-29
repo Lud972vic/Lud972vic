@@ -14,9 +14,24 @@
 
 ---
 
+## 👨‍💻 À propos de moi
+
 Concepteur développeur d'applications **PHP & Symfony**, je suis un peu le chef d'orchestre du back-end, mais je sais aussi faire danser le front-end. En coulisses, je m'occupe de la machinerie : serveurs Linux, Docker, Apache, Caddy, et toute la clique (PHP, MariaDB, phpMyAdmin, Mailpit). En gros, je fais en sorte que tout tourne rond, du serveur à l'interface.
 
 Récemment, j'ai attrapé le virus de l'**IA**, des **LLMs** et du *'vibe coding'*. J'expérimente pour pimenter mes futurs projets avec une dose d'innovation et une pincée de magie algorithmique.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🔭 <strong>Actuellement</strong><br/>SyncPoint — alternative à SharePoint</td>
+<td align="center">🌱 <strong>Apprentissage</strong><br/>LLMs & Vibe Coding</td>
+<td align="center">💬 <strong>Expertise</strong><br/>PHP · Symfony · Docker</td>
+<td align="center">⚡ <strong>Fun fact</strong><br/>Je fais danser le front-end</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
@@ -26,6 +41,18 @@ Récemment, j'ai attrapé le virus de l'**IA**, des **LLMs** et du *'vibe coding
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📑 Navigation rapide
+
+<div align="center">
+
+<a href="#-mes-projets">🚀 Projets</a> &nbsp;·&nbsp; <a href="#%EF%B8%8F-mes-comp%C3%A9tences">🛠️ Compétences</a> &nbsp;·&nbsp; <a href="#-statistiques-github">📊 Stats</a> &nbsp;·&nbsp; <a href="#-mon-activit%C3%A9-github">🐍 Activité</a> &nbsp;·&nbsp; <a href="#-comment-me-contacter">📞 Contact</a>
+
+<img src="https://komarev.com/ghpvc/?username=Lud972vic&label=Visiteurs&color=777BB4&style=flat-square" alt="Visitor count" />
 
 </div>
 
@@ -643,8 +670,16 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <br/><br/>
 
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Lud972vic&hide_border=true&background=000000&ring=777BB4&fire=777BB4&currLabel=777BB4&sideLabels=ffffff&dates=ffffff&currNum=ffffff" alt="GitHub Streak" width="49%" />
+
 <!-- Langages les plus utilisés -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lud972vic&theme=2075" alt="Top Languages" width="49%" />
+
+<br/><br/>
+
+<!-- Trophées -->
+<img src="https://github-profile-trophy.vercel.app/?username=Lud972vic&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="80%" />
 
 <br/><br/>
 
@@ -675,13 +710,16 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-##  Comment me contacter
+## 📞 Comment me contacter
 
 <div align="center">
 
 N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez simplement discuter de développement.
 
+<br/>
+
 <a href="mailto:eurekaludo@free.fr"><img src="https://img.shields.io/badge/Email-eurekaludo@free.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Lud972vic"><img src="https://img.shields.io/badge/GitHub-Lud972vic-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
