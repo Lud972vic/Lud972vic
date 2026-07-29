@@ -51,7 +51,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <p><em>Vos fichiers, partout avec vous.</em></p>
 
-<p>Alternative moderne à <strong>Microsoft SharePoint</strong>. Gérez, partagez et sécurisez vos documents d'entreprise depuis un seul endroit. Permissions inspirées de NTFS, édition OnlyOffice (Word, Excel, PPT), recherche multicritères, notifications in-app, API REST + JWT, journal d'audit complet.</p>
+<p>Alternative moderne à <strong>Microsoft SharePoint</strong>.<br/>Gérez, partagez et sécurisez vos documents d'entreprise depuis un seul endroit.<br/>Permissions inspirées de NTFS, édition OnlyOffice (Word, Excel, PPT),<br/>recherche multicritères, notifications in-app, API REST + JWT, journal d'audit complet.</p>
 
 <p>
 <img src="https://img.shields.io/badge/Permissions_NTFS-blue?style=flat-square" alt="NTFS" />
