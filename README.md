@@ -1,6 +1,6 @@
 <!-- Bannière animée -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradientList=777BB4,000000,777BB4&height=180&text=Ludovic&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Concepteur+Developpeur+PHP+Symfony&descAlignY=55&descSize=15&animation=fadeIn" alt="bannière" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradientList=003399,FF6600,003399&height=180&text=Ludovic&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Concepteur+Developpeur+PHP+Symfony&descAlignY=55&descSize=15&animation=fadeIn" alt="bannière" width="100%" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 # Salut, moi c'est Ludovic ! 👋
 
 <!-- Animation typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=777BB4&center=true&vCenter=true&random=false&width=600&lines=Concepteur+d%C3%A9veloppeur+PHP+%26+Symfony;Chef+d'orchestre+du+back-end;Qui+sait+aussi+danser+le+front-end;Serveurs+Linux+%C2%B7+Docker+%C2%B7+Apache+%C2%B7+Caddy;R%C3%A9cemment+contamin%C3%A9+par+le+virus+des+LLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=003399&center=true&vCenter=true&random=false&width=600&lines=Concepteur+d%C3%A9veloppeur+PHP+%26+Symfony;Chef+d'orchestre+du+back-end;Qui+sait+aussi+danser+le+front-end;Serveurs+Linux+%C2%B7+Docker+%C2%B7+Apache+%C2%B7+Caddy;R%C3%A9cemment+contamin%C3%A9+par+le+virus+des+LLMs" alt="Typing SVG" />
 
 </div>
 
@@ -35,10 +35,10 @@ Récemment, j'ai attrapé le virus de l'**IA**, des **LLMs** et du *'vibe coding
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23003399.svg?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat-square&logo=symfony&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23FF6600.svg?style=flat-square&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23003399.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -50,9 +50,9 @@ Récemment, j'ai attrapé le virus de l'**IA**, des **LLMs** et du *'vibe coding
 
 <div align="center">
 
-<a href="#-mes-projets">🚀 Projets</a> &nbsp;·&nbsp; <a href="#%EF%B8%8F-mes-comp%C3%A9tences">🛠️ Compétences</a> &nbsp;·&nbsp; <a href="#-statistiques-github">📊 Stats</a> &nbsp;·&nbsp; <a href="#-mon-activit%C3%A9-github">🐍 Activité</a> &nbsp;·&nbsp; <a href="#-comment-me-contacter">📞 Contact</a>
+<a href="#🚀-mes-projets">🚀 Projets</a> &nbsp;·&nbsp; <a href="#🛠️-mes-compétences">🛠️ Compétences</a> &nbsp;·&nbsp; <a href="#📊-statistiques-github">📊 Stats</a> &nbsp;·&nbsp; <a href="#🐍-mon-activité-github">🐍 Activité</a> &nbsp;·&nbsp; <a href="#📞-comment-me-contacter">📞 Contact</a>
 
-<img src="https://komarev.com/ghpvc/?username=Lud972vic&label=Visiteurs&color=777BB4&style=flat-square" alt="Visitor count" />
+<img src="https://komarev.com/ghpvc/?username=Lud972vic&label=Visiteurs&color=003399&style=flat-square" alt="Visitor count" />
 
 </div>
 
@@ -66,7 +66,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== SyncPoint ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #E6F0FF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>📁 SyncPoint</h4>
 
@@ -90,8 +90,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <ul>
-  <li>🌐 <em>Site en ligne :</em> <a href="https://lud972vic.github.io/SyncPoint/">https://lud972vic.github.io/SyncPoint/</a></li>
-  <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/SyncPoint">https://github.com/Lud972vic/SyncPoint</a></li>
+  <li>🌐 <a href="https://lud972vic.github.io/SyncPoint/">Détail projet</a></li>
+  <li>🐙 <a href="https://github.com/Lud972vic/SyncPoint">GitHub</a></li>
 </ul>
 
 <details>
@@ -126,7 +126,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Landing Page — Fiches Produits ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>🎨 Landing Page — Fiches Produits</h4>
 
@@ -147,27 +147,18 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <ul>
-  <li>🌐 <em>Site en ligne :</em> <a href="https://lud972vic.github.io/landing-page-fiches-produits/">https://lud972vic.github.io/landing-page-fiches-produits/</a></li>
-  <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/landing-page-fiches-produits">https://github.com/Lud972vic/landing-page-fiches-produits</a></li>
+  <li>🌐 <a href="https://lud972vic.github.io/landing-page-fiches-produits/">Détail projet</a></li>
+  <li>🐙 <a href="https://github.com/Lud972vic/landing-page-fiches-produits">GitHub</a></li>
 </ul>
 
-<table align=left><tr><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png"><img width="200" alt="Landing page Fiches Produits" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
-
-<table align=left><tr><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png"><img width="200" alt="Dashboard" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png"><img width="200" alt="Édition de template" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
-
-<details>
-<summary>📷 Voir les captures de l'application Fiches Produits</summary>
-
-<table align=left><tr><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png"><img width="200" alt="Dashboard" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/01-imports-list.png"><img width="200" alt="Imports list" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/01-imports-list.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/05-import-form.png"><img width="200" alt="Import form" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/05-import-form.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/06-import-detail.png"><img width="200" alt="Import detail" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/06-import-detail.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/02-templates-list.png"><img width="200" alt="Templates list" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/02-templates-list.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png"><img width="200" alt="Template edit" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/03-generations-list.png"><img width="200" alt="Generations list" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/03-generations-list.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/08-generation-form.png"><img width="200" alt="Generation form" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/08-generation-form.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/09-generation-detail.png"><img width="200" alt="Generation detail" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/09-generation-detail.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
-
-</details>
+<table align=left><tr><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png"><img width="200" alt="landing-demo.png" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png"><img width="200" alt="04-dashboard.png" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png"><img width="200" alt="07-template-edit.png" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/01-imports-list.png"><img width="200" alt="01-imports-list.png" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/01-imports-list.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/05-import-form.png"><img width="200" alt="05-import-form.png" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/05-import-form.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/06-import-detail.png"><img width="200" alt="06-import-detail.png" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/06-import-detail.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/02-templates-list.png"><img width="200" alt="02-templates-list.png" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/02-templates-list.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/03-generations-list.png"><img width="200" alt="03-generations-list.png" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/03-generations-list.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/08-generation-form.png"><img width="200" alt="08-generation-form.png" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/08-generation-form.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/09-generation-detail.png"><img width="200" alt="09-generation-detail.png" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/09-generation-detail.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
 
 </td>
 </tr>
 
 <!-- ===== Kelio POC ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>🖥️ Kelio POC</h4>
 
@@ -183,7 +174,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <img src="https://img.shields.io/badge/SOAP-FF6C37?style=flat-square" alt="SOAP" />
 </p>
 
-<p>🔗 <a href="https://github.com/Lud972vic/Kelio-Electron">Le projet en détail</a></p>
+<p>🔗 <a href="https://github.com/Lud972vic/Kelio-Electron">Détail projet</a></p>
 
 <table align=left><tr><td><a href="https://github.com/user-attachments/assets/0ea5e012-25b4-4969-9347-9b9a9e3bd9e5"><img width="200" alt="Kelio POC" src="https://github.com/user-attachments/assets/0ea5e012-25b4-4969-9347-9b9a9e3bd9e5" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px;" /></a></td></tr></table>
 
@@ -192,7 +183,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Jaya ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #E6F0FF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>🍽️ Jaya</h4>
 
@@ -210,7 +201,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-<p>🔗 <a href="https://github.com/Lud972vic/Jaya-Presentation">Le projet en détail</a></p>
+<p>🔗 <a href="https://github.com/Lud972vic/Jaya-Presentation">Détail projet</a></p>
 
 <table align=left><tr><td><a href="https://github.com/user-attachments/assets/77272af7-df0b-4c76-b229-46ad9910083f"><img width="200" alt="Jaya 1" src="https://github.com/user-attachments/assets/77272af7-df0b-4c76-b229-46ad9910083f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/77bb0015-fb9e-467b-8787-e1efe2d264b2"><img width="200" alt="Jaya 2" src="https://github.com/user-attachments/assets/77bb0015-fb9e-467b-8787-e1efe2d264b2" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/9241e9e2-911d-407f-84bd-fc56eb3158bf"><img width="200" alt="Jaya 3" src="https://github.com/user-attachments/assets/9241e9e2-911d-407f-84bd-fc56eb3158bf" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
 
@@ -219,7 +210,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== ALDI Mobile Inventaire Picking ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>🛒 ALDI Mobile Inventaire Picking</h4>
 
@@ -238,23 +229,16 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<p>🔗 <a href="https://github.com/Lud972vic/Mobile-Inventaire-Picking">Projet — voir la vidéo démo</a></p>
+<p>🔗 <a href="https://github.com/Lud972vic/Mobile-Inventaire-Picking">Détail projet</a></p>
 
-<table align=left><tr><td><a href="https://github.com/user-attachments/assets/c85d5748-a66a-4ab0-ad1a-2a85315c3403"><img width="200" alt="Mobile" src="https://github.com/user-attachments/assets/c85d5748-a66a-4ab0-ad1a-2a85315c3403" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/34b5b65e-f35b-43d0-b452-0c3fe38c4611"><img width="200" alt="Desktop" src="https://github.com/user-attachments/assets/34b5b65e-f35b-43d0-b452-0c3fe38c4611" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
-
-<details>
-<summary>📷 Voir plus de captures</summary>
-
-<table align=left><tr><td><a href="https://github.com/user-attachments/assets/7ca4727b-42cd-46db-addc-66d6474f85bf"><img width="200" alt="" src="https://github.com/user-attachments/assets/7ca4727b-42cd-46db-addc-66d6474f85bf" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/0bd4a334-fc20-4d70-90a1-abe22b6ee7ce"><img width="200" alt="" src="https://github.com/user-attachments/assets/0bd4a334-fc20-4d70-90a1-abe22b6ee7ce" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/8ebdb8d9-a894-48ac-ae57-7d92d8e79071"><img width="200" alt="" src="https://github.com/user-attachments/assets/8ebdb8d9-a894-48ac-ae57-7d92d8e79071" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/05258bd4-df03-44cd-9b78-9328d9d2e0a4"><img width="200" alt="" src="https://github.com/user-attachments/assets/05258bd4-df03-44cd-9b78-9328d9d2e0a4" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/d53f243a-7692-4a3c-a650-6e45879a7622"><img width="200" alt="" src="https://github.com/user-attachments/assets/d53f243a-7692-4a3c-a650-6e45879a7622" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/e0b8ce31-025c-4900-b781-b27966bc4fbb"><img width="200" alt="" src="https://github.com/user-attachments/assets/e0b8ce31-025c-4900-b781-b27966bc4fbb" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/303f0993-c6b7-4f5c-8cf8-c6fb21c81f1e"><img width="200" alt="" src="https://github.com/user-attachments/assets/303f0993-c6b7-4f5c-8cf8-c6fb21c81f1e" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/6d3bee94-9dd9-4682-914a-cc8784e239d7"><img width="200" alt="" src="https://github.com/user-attachments/assets/6d3bee94-9dd9-4682-914a-cc8784e239d7" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/dce0ae35-b893-46ad-baf5-5390617b0b46"><img width="200" alt="" src="https://github.com/user-attachments/assets/dce0ae35-b893-46ad-baf5-5390617b0b46" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/075ede2d-4b08-4ca8-869b-a823a2f50dbf"><img width="200" alt="" src="https://github.com/user-attachments/assets/075ede2d-4b08-4ca8-869b-a823a2f50dbf" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/2711b137-d121-404f-9d04-325657084795"><img width="200" alt="" src="https://github.com/user-attachments/assets/2711b137-d121-404f-9d04-325657084795" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/f06b789b-bcf3-4b8a-b29f-34412c5d9a11"><img width="200" alt="" src="https://github.com/user-attachments/assets/f06b789b-bcf3-4b8a-b29f-34412c5d9a11" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1"><img width="200" alt="" src="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
-
-</details>
+<table align=left><tr><td><a href="https://github.com/user-attachments/assets/c85d5748-a66a-4ab0-ad1a-2a85315c3403"><img width="200" alt="c85d5748-a66a-4ab0-ad1a-2a85315c3403" src="https://github.com/user-attachments/assets/c85d5748-a66a-4ab0-ad1a-2a85315c3403" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/34b5b65e-f35b-43d0-b452-0c3fe38c4611"><img width="200" alt="34b5b65e-f35b-43d0-b452-0c3fe38c4611" src="https://github.com/user-attachments/assets/34b5b65e-f35b-43d0-b452-0c3fe38c4611" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/7ca4727b-42cd-46db-addc-66d6474f85bf"><img width="200" alt="7ca4727b-42cd-46db-addc-66d6474f85bf" src="https://github.com/user-attachments/assets/7ca4727b-42cd-46db-addc-66d6474f85bf" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/0bd4a334-fc20-4d70-90a1-abe22b6ee7ce"><img width="200" alt="0bd4a334-fc20-4d70-90a1-abe22b6ee7ce" src="https://github.com/user-attachments/assets/0bd4a334-fc20-4d70-90a1-abe22b6ee7ce" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/8ebdb8d9-a894-48ac-ae57-7d92d8e79071"><img width="200" alt="8ebdb8d9-a894-48ac-ae57-7d92d8e79071" src="https://github.com/user-attachments/assets/8ebdb8d9-a894-48ac-ae57-7d92d8e79071" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/05258bd4-df03-44cd-9b78-9328d9d2e0a4"><img width="200" alt="05258bd4-df03-44cd-9b78-9328d9d2e0a4" src="https://github.com/user-attachments/assets/05258bd4-df03-44cd-9b78-9328d9d2e0a4" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/d53f243a-7692-4a3c-a650-6e45879a7622"><img width="200" alt="d53f243a-7692-4a3c-a650-6e45879a7622" src="https://github.com/user-attachments/assets/d53f243a-7692-4a3c-a650-6e45879a7622" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/e0b8ce31-025c-4900-b781-b27966bc4fbb"><img width="200" alt="e0b8ce31-025c-4900-b781-b27966bc4fbb" src="https://github.com/user-attachments/assets/e0b8ce31-025c-4900-b781-b27966bc4fbb" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/303f0993-c6b7-4f5c-8cf8-c6fb21c81f1e"><img width="200" alt="303f0993-c6b7-4f5c-8cf8-c6fb21c81f1e" src="https://github.com/user-attachments/assets/303f0993-c6b7-4f5c-8cf8-c6fb21c81f1e" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/6d3bee94-9dd9-4682-914a-cc8784e239d7"><img width="200" alt="6d3bee94-9dd9-4682-914a-cc8784e239d7" src="https://github.com/user-attachments/assets/6d3bee94-9dd9-4682-914a-cc8784e239d7" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/075ede2d-4b08-4ca8-869b-a823a2f50dbf"><img width="200" alt="075ede2d-4b08-4ca8-869b-a823a2f50dbf" src="https://github.com/user-attachments/assets/075ede2d-4b08-4ca8-869b-a823a2f50dbf" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/2711b137-d121-404f-9d04-325657084795"><img width="200" alt="2711b137-d121-404f-9d04-325657084795" src="https://github.com/user-attachments/assets/2711b137-d121-404f-9d04-325657084795" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/f06b789b-bcf3-4b8a-b29f-34412c5d9a11"><img width="200" alt="f06b789b-bcf3-4b8a-b29f-34412c5d9a11" src="https://github.com/user-attachments/assets/f06b789b-bcf3-4b8a-b29f-34412c5d9a11" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1"><img width="200" alt="f289680f-155b-4775-96d1-cb0e696389a1" src="https://github.com/user-attachments/assets/f289680f-155b-4775-96d1-cb0e696389a1" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
 
 </td>
 </tr>
 
 <!-- ===== HubStock ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #E6F0FF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>📦 HubStock</h4>
 
@@ -273,25 +257,18 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <ul>
-  <li>🌐 <em>Site en ligne :</em> <a href="https://lud972vic-hubstock.great-site.net/public/login">Site en ligne</a></li>
-  <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/HubStock">https://github.com/Lud972vic/HubStock</a></li>
+  <li>🌐 <a href="https://lud972vic-hubstock.great-site.net/public/login">Détail projet</a></li>
+  <li>🐙 <a href="https://github.com/Lud972vic/HubStock">GitHub</a></li>
 </ul>
 
-<table align=left><tr><td><a href="https://github.com/user-attachments/assets/4530e708-c807-47c7-ae79-0badaca89eff"><img width="200" alt="capture-2025-10-08-11-32-33" src="https://github.com/user-attachments/assets/4530e708-c807-47c7-ae79-0badaca89eff" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/1ca78b71-e7bf-4fe5-afc6-99f7e05811f3"><img width="200" alt="capture-2025-10-08-11-32-25" src="https://github.com/user-attachments/assets/1ca78b71-e7bf-4fe5-afc6-99f7e05811f3" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/a848777b-ce74-4d15-92e1-c000c11c4716"><img width="200" alt="capture-2025-10-08-11-32-20" src="https://github.com/user-attachments/assets/a848777b-ce74-4d15-92e1-c000c11c4716" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/54dd17f5-1c67-439d-ad18-6505ce9ef0ba"><img width="200" alt="capture-2025-10-08-11-32-12" src="https://github.com/user-attachments/assets/54dd17f5-1c67-439d-ad18-6505ce9ef0ba" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/cb440345-a35e-4f78-ad6e-24195d64c434"><img width="200" alt="capture-2025-10-08-11-31-16" src="https://github.com/user-attachments/assets/cb440345-a35e-4f78-ad6e-24195d64c434" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
-
-<details>
-<summary>📷 Voir plus de captures</summary>
-
-<table align=left><tr><td><a href="https://github.com/user-attachments/assets/b16327ad-200a-4875-82a1-f964a18f5db0"><img width="200" alt="capture-2025-10-08-11-30-59" src="https://github.com/user-attachments/assets/b16327ad-200a-4875-82a1-f964a18f5db0" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/6e30c59a-0373-4031-88fb-d94a3b978759"><img width="200" alt="capture-2025-10-08-11-30-50" src="https://github.com/user-attachments/assets/6e30c59a-0373-4031-88fb-d94a3b978759" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/024addbb-22b7-4845-ac60-c3f916c7a2c8"><img width="200" alt="capture-2025-10-08-11-30-00" src="https://github.com/user-attachments/assets/024addbb-22b7-4845-ac60-c3f916c7a2c8" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/63bf35a8-8adc-43c8-a87a-24217760a630"><img width="200" alt="capture-2025-10-08-11-29-47" src="https://github.com/user-attachments/assets/63bf35a8-8adc-43c8-a87a-24217760a630" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/7a8b8b7d-942c-4957-9193-e3ead6fdbe38"><img width="200" alt="capture-2025-10-08-11-29-40" src="https://github.com/user-attachments/assets/7a8b8b7d-942c-4957-9193-e3ead6fdbe38" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/701ebe05-eff5-4703-ac11-0f92db5fbec5"><img width="200" alt="capture-2025-10-08-11-28-59" src="https://github.com/user-attachments/assets/701ebe05-eff5-4703-ac11-0f92db5fbec5" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/44dfbde8-1c2b-4b63-9629-6ac67d075cef"><img width="200" alt="capture-2025-10-08-11-28-44" src="https://github.com/user-attachments/assets/44dfbde8-1c2b-4b63-9629-6ac67d075cef" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/3939303f-8e1d-4845-98fb-b72b9deb2460"><img width="200" alt="capture-2025-10-08-11-28-13" src="https://github.com/user-attachments/assets/3939303f-8e1d-4845-98fb-b72b9deb2460" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
-
-</details>
+<table align=left><tr><td><a href="https://github.com/user-attachments/assets/4530e708-c807-47c7-ae79-0badaca89eff"><img width="200" alt="4530e708-c807-47c7-ae79-0badaca89eff" src="https://github.com/user-attachments/assets/4530e708-c807-47c7-ae79-0badaca89eff" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/1ca78b71-e7bf-4fe5-afc6-99f7e05811f3"><img width="200" alt="1ca78b71-e7bf-4fe5-afc6-99f7e05811f3" src="https://github.com/user-attachments/assets/1ca78b71-e7bf-4fe5-afc6-99f7e05811f3" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/a848777b-ce74-4d15-92e1-c000c11c4716"><img width="200" alt="a848777b-ce74-4d15-92e1-c000c11c4716" src="https://github.com/user-attachments/assets/a848777b-ce74-4d15-92e1-c000c11c4716" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/54dd17f5-1c67-439d-ad18-6505ce9ef0ba"><img width="200" alt="54dd17f5-1c67-439d-ad18-6505ce9ef0ba" src="https://github.com/user-attachments/assets/54dd17f5-1c67-439d-ad18-6505ce9ef0ba" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/cb440345-a35e-4f78-ad6e-24195d64c434"><img width="200" alt="cb440345-a35e-4f78-ad6e-24195d64c434" src="https://github.com/user-attachments/assets/cb440345-a35e-4f78-ad6e-24195d64c434" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/b16327ad-200a-4875-82a1-f964a18f5db0"><img width="200" alt="b16327ad-200a-4875-82a1-f964a18f5db0" src="https://github.com/user-attachments/assets/b16327ad-200a-4875-82a1-f964a18f5db0" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/6e30c59a-0373-4031-88fb-d94a3b978759"><img width="200" alt="6e30c59a-0373-4031-88fb-d94a3b978759" src="https://github.com/user-attachments/assets/6e30c59a-0373-4031-88fb-d94a3b978759" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/024addbb-22b7-4845-ac60-c3f916c7a2c8"><img width="200" alt="024addbb-22b7-4845-ac60-c3f916c7a2c8" src="https://github.com/user-attachments/assets/024addbb-22b7-4845-ac60-c3f916c7a2c8" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/63bf35a8-8adc-43c8-a87a-24217760a630"><img width="200" alt="63bf35a8-8adc-43c8-a87a-24217760a630" src="https://github.com/user-attachments/assets/63bf35a8-8adc-43c8-a87a-24217760a630" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/7a8b8b7d-942c-4957-9193-e3ead6fdbe38"><img width="200" alt="7a8b8b7d-942c-4957-9193-e3ead6fdbe38" src="https://github.com/user-attachments/assets/7a8b8b7d-942c-4957-9193-e3ead6fdbe38" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/701ebe05-eff5-4703-ac11-0f92db5fbec5"><img width="200" alt="701ebe05-eff5-4703-ac11-0f92db5fbec5" src="https://github.com/user-attachments/assets/701ebe05-eff5-4703-ac11-0f92db5fbec5" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/44dfbde8-1c2b-4b63-9629-6ac67d075cef"><img width="200" alt="44dfbde8-1c2b-4b63-9629-6ac67d075cef" src="https://github.com/user-attachments/assets/44dfbde8-1c2b-4b63-9629-6ac67d075cef" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/3939303f-8e1d-4845-98fb-b72b9deb2460"><img width="200" alt="3939303f-8e1d-4845-98fb-b72b9deb2460" src="https://github.com/user-attachments/assets/3939303f-8e1d-4845-98fb-b72b9deb2460" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
 
 </td>
 </tr>
 
 <!-- ===== Kelio Data Explorer & Importer ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>📁 Kelio Data Explorer & Importer</h4>
 
@@ -310,7 +287,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <ul>
-  <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/POC_Kelio_Prive">https://github.com/Lud972vic/POC_Kelio_Prive</a></li>
+  <li>🐙 <a href="https://github.com/Lud972vic/POC_Kelio_Prive">GitHub</a></li>
 </ul>
 
 <table align=left><tr><td><a href="https://github.com/user-attachments/assets/f991bcbe-ca7e-45ba-9caf-37f37bc0d688"><img width="200" alt="Capture d'écran 2026-01-31 à 19 41 58" src="https://github.com/user-attachments/assets/f991bcbe-ca7e-45ba-9caf-37f37bc0d688" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/0de53c59-0385-45f5-8217-824676340440"><img width="200" alt="Capture d'écran 2026-01-31 à 19 42 10" src="https://github.com/user-attachments/assets/0de53c59-0385-45f5-8217-824676340440" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/fa110458-69cb-4da3-9adc-56e9ca090edf"><img width="200" alt="Capture d'écran 2026-01-31 à 19 42 29" src="https://github.com/user-attachments/assets/fa110458-69cb-4da3-9adc-56e9ca090edf" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/4ff18858-52bc-4dfd-aef6-b87cac251c48"><img width="200" alt="Capture d'écran 2026-01-31 à 19 43 13" src="https://github.com/user-attachments/assets/4ff18858-52bc-4dfd-aef6-b87cac251c48" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/221f1775-9058-4dd8-956c-d7a3b3043f2c"><img width="200" alt="Capture d'écran 2026-01-31 à 19 43 27" src="https://github.com/user-attachments/assets/221f1775-9058-4dd8-956c-d7a3b3043f2c" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
@@ -320,7 +297,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== SimplePartage ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #E6F0FF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>📁 SimplePartage</h4>
 
@@ -339,7 +316,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <ul>
-  <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/SimplePartage">https://github.com/Lud972vic/SimplePartage</a></li>
+  <li>🐙 <a href="https://github.com/Lud972vic/SimplePartage">GitHub</a></li>
 </ul>
 
 <table align=left><tr><td><a href="https://github.com/user-attachments/assets/8cce4b7e-b354-4fdf-966f-d0361384bdd8"><img width="200" alt="Capture d'écran 2025-09-28 à 00 40 12" src="https://github.com/user-attachments/assets/8cce4b7e-b354-4fdf-966f-d0361384bdd8" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/41bf58ab-9e86-4e91-af3b-fffba35c3074"><img width="200" alt="Capture d'écran 2025-09-28 à 00 40 46" src="https://github.com/user-attachments/assets/41bf58ab-9e86-4e91-af3b-fffba35c3074" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/004f8bd7-87bd-4766-a815-ac4d7b69532f"><img width="200" alt="Capture d'écran 2025-09-28 à 00 44 38" src="https://github.com/user-attachments/assets/004f8bd7-87bd-4766-a815-ac4d7b69532f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/9bdc1d90-b7da-43c0-b805-4bfdeb77fa1b"><img width="200" alt="Capture d'écran 2025-09-28 à 00 45 16" src="https://github.com/user-attachments/assets/9bdc1d90-b7da-43c0-b805-4bfdeb77fa1b" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/1f8edc71-8b70-4c30-8beb-cbe5d9d10a04"><img width="200" alt="Capture d'écran 2025-09-28 à 00 44 04" src="https://github.com/user-attachments/assets/1f8edc71-8b70-4c30-8beb-cbe5d9d10a04" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
@@ -349,7 +326,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Stock HUB Multiple articles ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>📦 Stock HUB Multiple articles</h4>
 
@@ -368,36 +345,17 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <ul>
-  <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/Stock-HUB-Multiple-Articles">https://github.com/Lud972vic/Stock-HUB-Multiple-Articles</a></li>
+  <li>🐙 <a href="https://github.com/Lud972vic/Stock-HUB-Multiple-Articles">GitHub</a></li>
 </ul>
 
-<table align="center"><tr>
-  <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 55 46" src="https://github.com/user-attachments/assets/817b7d19-871e-4d4f-a626-63483fc7f757" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
-  <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 56 05" src="https://github.com/user-attachments/assets/69226eea-cd81-4bba-b4e6-a5ee9e28c741" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
-  <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 56 19" src="https://github.com/user-attachments/assets/e353996b-9f92-44b9-ad9b-fa47ab24052b" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
-  <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 56 26" src="https://github.com/user-attachments/assets/bb2887d3-768c-44b7-b0fe-afd4df935bc4" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
-  <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 56 35" src="https://github.com/user-attachments/assets/e49a0fc0-011a-4ea6-ac11-5564cac7c0b3" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
-</tr></table>
-
-<details>
-<summary>📷 Voir plus de captures</summary>
-
-<table align="center"><tr>
-  <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 56 42" src="https://github.com/user-attachments/assets/661362ff-3e0d-402a-9f7a-301537dc940f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
-  <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 56 47" src="https://github.com/user-attachments/assets/9b944e33-68ca-447d-a7ab-369fa265bd96" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
-  <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 56 52" src="https://github.com/user-attachments/assets/367bf1c2-2977-4c2c-ae55-7056734cf5c3" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
-  <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 57 05" src="https://github.com/user-attachments/assets/774c3b1e-0ae1-497e-ba30-f9ccfbde5d13" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
-  <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 57 09" src="https://github.com/user-attachments/assets/bfb5bc51-fd39-4c90-9e48-33717d327dda" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
-</tr></table>
-
-</details>
+<table align=left><tr><td><a href="https://github.com/user-attachments/assets/817b7d19-871e-4d4f-a626-63483fc7f757"><img width="200" alt="817b7d19-871e-4d4f-a626-63483fc7f757" src="https://github.com/user-attachments/assets/817b7d19-871e-4d4f-a626-63483fc7f757" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/69226eea-cd81-4bba-b4e6-a5ee9e28c741"><img width="200" alt="69226eea-cd81-4bba-b4e6-a5ee9e28c741" src="https://github.com/user-attachments/assets/69226eea-cd81-4bba-b4e6-a5ee9e28c741" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/e353996b-9f92-44b9-ad9b-fa47ab24052b"><img width="200" alt="e353996b-9f92-44b9-ad9b-fa47ab24052b" src="https://github.com/user-attachments/assets/e353996b-9f92-44b9-ad9b-fa47ab24052b" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/bb2887d3-768c-44b7-b0fe-afd4df935bc4"><img width="200" alt="bb2887d3-768c-44b7-b0fe-afd4df935bc4" src="https://github.com/user-attachments/assets/bb2887d3-768c-44b7-b0fe-afd4df935bc4" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/e49a0fc0-011a-4ea6-ac11-5564cac7c0b3"><img width="200" alt="e49a0fc0-011a-4ea6-ac11-5564cac7c0b3" src="https://github.com/user-attachments/assets/e49a0fc0-011a-4ea6-ac11-5564cac7c0b3" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/661362ff-3e0d-402a-9f7a-301537dc940f"><img width="200" alt="661362ff-3e0d-402a-9f7a-301537dc940f" src="https://github.com/user-attachments/assets/661362ff-3e0d-402a-9f7a-301537dc940f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/9b944e33-68ca-447d-a7ab-369fa265bd96"><img width="200" alt="9b944e33-68ca-447d-a7ab-369fa265bd96" src="https://github.com/user-attachments/assets/9b944e33-68ca-447d-a7ab-369fa265bd96" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/367bf1c2-2977-4c2c-ae55-7056734cf5c3"><img width="200" alt="367bf1c2-2977-4c2c-ae55-7056734cf5c3" src="https://github.com/user-attachments/assets/367bf1c2-2977-4c2c-ae55-7056734cf5c3" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/774c3b1e-0ae1-497e-ba30-f9ccfbde5d13"><img width="200" alt="774c3b1e-0ae1-497e-ba30-f9ccfbde5d13" src="https://github.com/user-attachments/assets/774c3b1e-0ae1-497e-ba30-f9ccfbde5d13" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/bfb5bc51-fd39-4c90-9e48-33717d327dda"><img width="200" alt="bfb5bc51-fd39-4c90-9e48-33717d327dda" src="https://github.com/user-attachments/assets/bfb5bc51-fd39-4c90-9e48-33717d327dda" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
 
 </td>
 </tr>
 
 <!-- ===== RrR ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #E6F0FF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>💰 RrR (Rabais - Remises - Ristournes)</h4>
 
@@ -419,7 +377,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== MonitoringJobs ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>📊 MonitoringJobs</h4>
 
@@ -439,7 +397,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <ul>
-  <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/MonitoringJobs">https://github.com/Lud972vic/MonitoringJobs</a></li>
+  <li>🐙 <a href="https://github.com/Lud972vic/MonitoringJobs">GitHub</a></li>
 </ul>
 
 <table align=left><tr><td><a href="https://github.com/user-attachments/assets/9ce802aa-62bd-4f48-bebc-b672d0b24ded"><img width="200" alt="dashboard1" src="https://github.com/user-attachments/assets/9ce802aa-62bd-4f48-bebc-b672d0b24ded" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/9219b043-fde9-4182-a59e-58103442f49f"><img width="200" alt="dashboard5" src="https://github.com/user-attachments/assets/9219b043-fde9-4182-a59e-58103442f49f" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/e8395403-27d5-4ed5-962b-58e7e3e1b944"><img width="200" alt="dashboard7" src="https://github.com/user-attachments/assets/e8395403-27d5-4ed5-962b-58e7e3e1b944" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/53f953b4-89cb-4147-ad02-84eb355794d6"><img width="200" alt="dashboard6" src="https://github.com/user-attachments/assets/53f953b4-89cb-4147-ad02-84eb355794d6" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
@@ -449,7 +407,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== FA - Facturation Automatique ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #E6F0FF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>💸 FA — Facturation Automatique</h4>
 
@@ -472,7 +430,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== RH OnboardingRH ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>🧑‍💼 RH OnboardingRH</h4>
 
@@ -491,7 +449,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <ul>
-  <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/OnboardingRH">https://github.com/Lud972vic/OnboardingRH</a></li>
+  <li>🐙 <a href="https://github.com/Lud972vic/OnboardingRH">GitHub</a></li>
 </ul>
 
 <table align=left><tr><td><a href="https://user-images.githubusercontent.com/52196263/233828782-9de26dea-13a7-4608-a17c-2907518abd0b.png"><img width="200" alt="229362344-e3f6fdab-8ad8-4558-8ba6-8dc24c1f1809" src="https://user-images.githubusercontent.com/52196263/233828782-9de26dea-13a7-4608-a17c-2907518abd0b.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
@@ -503,14 +461,13 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <br/>
 
-<details>
-<summary>📦 Archives — anciens projets</summary>
+### 📦 Archives — anciens projets
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 0 12px;">
 
 <!-- ===== Portfolio ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #E6F0FF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>🎨 Portfolio</h4>
 
@@ -534,7 +491,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Melys Location ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>🏖️ Melys Location</h4>
 
@@ -558,7 +515,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Juste un regard ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #E6F0FF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>📸 Juste un regard</h4>
 
@@ -582,7 +539,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Minis Quizs ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>🧠 Minis Quizs</h4>
 
@@ -597,7 +554,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <ul>
-  <li>🌐 <em>GitHub Pages :</em> <a href="https://lud972vic.github.io/Quizs/">https://lud972vic.github.io/Quizs/</a></li>
+  <li>🌐 <a href="https://lud972vic.github.io/Quizs/">Détail projet</a></li>
 </ul>
 
 <table align=left><tr><td><a href="https://user-images.githubusercontent.com/52196263/233828754-f8d14789-9fb3-4949-a013-5e0bef352bba.png"><img width="200" alt="Capture d'écran du 2023-04-23 10-27-03" src="https://user-images.githubusercontent.com/52196263/233828754-f8d14789-9fb3-4949-a013-5e0bef352bba.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
@@ -607,7 +564,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== PinALDI ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
+<td style="vertical-align: top; padding: 20px; background-color: #E6F0FF; border-radius: 8px; border: 1px solid #003399;">
 
 <h4>📍 PinALDI</h4>
 
@@ -622,7 +579,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </p>
 
 <ul>
-  <li>🌐 <em>GitHub Pages :</em> <a href="https://lud972vic.github.io/PinALDI/">https://lud972vic.github.io/PinALDI/</a></li>
+  <li>🌐 <a href="https://lud972vic.github.io/PinALDI/">Détail projet</a></li>
 </ul>
 
 <table align=left><tr><td><a href="https://user-images.githubusercontent.com/52196263/233828757-771c07ef-26ae-429d-a3ab-773109a028bb.png"><img width="200" alt="Capture d'écran du 2023-04-23 10-27-44" src="https://user-images.githubusercontent.com/52196263/233828757-771c07ef-26ae-429d-a3ab-773109a028bb.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
@@ -631,8 +588,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </tr>
 
 </table>
-
-</details>
 
 ---
 
@@ -665,21 +620,14 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <div align="center">
 
 <!-- Stats principales -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lud972vic&theme=2075" alt="GitHub Stats" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lud972vic&theme=2075" alt="GitHub Stats détaillées" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lud972vic&theme=2075" alt="GitHub Stats" width="80%" />
 
 <br/><br/>
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Lud972vic&hide_border=true&background=000000&ring=777BB4&fire=777BB4&currLabel=777BB4&sideLabels=ffffff&dates=ffffff&currNum=ffffff" alt="GitHub Streak" width="49%" />
 
 <!-- Langages les plus utilisés -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lud972vic&theme=2075" alt="Top Languages" width="49%" />
 
-<br/><br/>
-
-<!-- Trophées -->
-<img src="https://github-profile-trophy.vercel.app/?username=Lud972vic&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lud972vic&theme=2075" alt="Most Commit Language" width="49%" />
 
 <br/><br/>
 
@@ -692,9 +640,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ## 🐍 Mon activité GitHub
 
-<details>
-<summary>🐍 Voir le snake dévorer mes commits</summary>
-
 <div align="center">
 
 <!-- Snake généré par GitHub Action -->
@@ -705,8 +650,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </picture>
 
 </div>
-
-</details>
 
 ---
 
@@ -725,5 +668,5 @@ N'hésitez pas à me contacter si vous avez des questions, des propositions de c
 
 <!-- Bannière de bas de page -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:777BB4,50:000000,100:777BB4&height=120&section=footer&fontSize=0" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,50:FF6600,100:003399&height=120&section=footer&fontSize=0" alt="footer" width="100%" />
 </div>
