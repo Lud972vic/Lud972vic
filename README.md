@@ -127,7 +127,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </ul>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png"><img src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png" alt="Landing page Fiches Produits" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
+  <a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png"><img width="200" alt="Landing page Fiches Produits" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/landing-demo.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
 </p>
 
 <p align="center">
