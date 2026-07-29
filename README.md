@@ -685,7 +685,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lud972vic&theme=2075" alt="Top Languages" height="170" />
 
 <!-- Compteur de repos privés (badge statique à mettre à jour manuellement) -->
-<img src="https://img.shields.io/badge/Repos_priv%C3%A9s-12-red?style=for-the-badge&logo=github&logoColor=white" alt="Repos privés" />
+<img src="https://img.shields.io/badge/Repos_priv%C3%A9s-35-red?style=for-the-badge&logo=github&logoColor=white" alt="Repos privés" />
 
 </div>
 
@@ -713,11 +713,11 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-## 😄 Citation aléatoire de dev
+## 😄 Citation de dev
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Le%20code%20est%20comme%20l%27humour.%20Quand%20tu%20dois%20l%27expliquer%2C%20c%27est%20mauvais.&author=Cory%20House" alt="Citation de dev" />
 
 </div>
 
