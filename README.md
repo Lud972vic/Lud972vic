@@ -150,7 +150,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <img src="https://img.shields.io/github/forks/Lud972vic/Kelio-Electron?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/Kelio-Electron?style=flat-square&color=orange" alt="Top language" /></p>
 
-<p>Application desktop 100% locale pour extraire, stocker et consulter les données Kelio via ses Web Services SOAP — sans serveur, sans PHP, sans larmes (ou presque).</p>
+<p>Application desktop 100% locale pour extraire, stocker et consulter les données Kelio<br/>via ses Web Services SOAP — sans serveur, sans PHP,<br/>sans larmes (ou presque).</p>
 
 <p>
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
