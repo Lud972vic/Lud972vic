@@ -669,17 +669,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-## 😄 Citation de dev
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Le%20code%20est%20comme%20l%27humour.%20Quand%20tu%20dois%20l%27expliquer%2C%20c%27est%20mauvais.&author=Cory%20House" alt="Citation de dev" />
-
-</div>
-
----
-
-## 📫 Comment me contacter
+##  Comment me contacter
 
 <div align="center">
 
