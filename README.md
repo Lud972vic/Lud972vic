@@ -50,7 +50,7 @@ Récemment, j'ai attrapé le virus de l'**IA**, des **LLMs** et du *'vibe coding
 
 <div align="center">
 
-<a href="#mes-projets">🚀 Projets</a> &nbsp;·&nbsp; <a href="#mes-competences">🛠️ Compétences</a> &nbsp;·&nbsp; <a href="#stats-github">📊 Stats</a> &nbsp;·&nbsp; <a href="#activite-github">🐍 Activité</a> &nbsp;·&nbsp; <a href="#contact">📞 Contact</a>
+<a href="#mes-projets">🚀 Projets</a> &nbsp;·&nbsp; <a href="#mes-compétences">🛠️ Compétences</a> &nbsp;·&nbsp; <a href="#statistiques-github">📊 Stats</a> &nbsp;·&nbsp; <a href="#mon-activité-github">🐍 Activité</a> &nbsp;·&nbsp; <a href="#comment-me-contacter">📞 Contact</a>
 
 <img src="https://komarev.com/ghpvc/?username=Lud972vic&label=Visiteurs&color=003399&style=flat-square" alt="Visitor count" />
 
@@ -58,9 +58,7 @@ Récemment, j'ai attrapé le virus de l'**IA**, des **LLMs** et du *'vibe coding
 
 ---
 
-<a id="mes-projets"></a>
-
-## 🚀 Mes Projets
+## Mes Projets
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
@@ -593,9 +591,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-<a id="mes-competences"></a>
-
-## 🛠️ Mes Compétences
+## Mes Compétences
 
 ### Langages & Frameworks web
 
@@ -619,9 +615,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-<a id="stats-github"></a>
-
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
@@ -644,9 +638,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-<a id="activite-github"></a>
-
-## 🐍 Mon activité GitHub
+## Mon activité GitHub
 
 <div align="center">
 
@@ -661,9 +653,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-<a id="contact"></a>
-
-## 📞 Comment me contacter
+## Comment me contacter
 
 <div align="center">
 
