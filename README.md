@@ -109,9 +109,9 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <p><em>Parce que faire des fiches produits à la main, c'est tellement 2000.</em></p>
 
-<p>Transformez un fichier Excel en présentation PowerPoint éditable en quelques clics. Import. Template. Génération. Profitez. ☕</p>
+<p>Transformez un fichier Excel en présentation PowerPoint éditable en quelques clics.<br/>Import. Template. Génération. Profitez. ☕</p>
 
-<p>Site de présentation de l'application <strong>Fiches Produits</strong> (Excel → PowerPoint) : une landing page qui présente les fonctionnalités de l'app au reste du monde.</p>
+<p>Site de présentation de l'application <strong>Fiches Produits</strong> (Excel → PowerPoint) :<br/>une landing page qui présente les fonctionnalités de l'app au reste du monde.</p>
 
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
