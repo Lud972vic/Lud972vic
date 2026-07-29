@@ -128,6 +128,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <table align=left><tr><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png"><img width="200" alt="Dashboard" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/04-dashboard.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png"><img width="200" alt="Édition de template" src="https://raw.githubusercontent.com/Lud972vic/landing-page-fiches-produits/main/captures/07-template-edit.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
 
+<br/>
+
 <details>
 <summary>📷 Voir les captures de l'application Fiches Produits</summary>
 
@@ -215,6 +217,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <table align=left><tr><td><a href="https://github.com/user-attachments/assets/c85d5748-a66a-4ab0-ad1a-2a85315c3403"><img width="200" alt="Mobile" src="https://github.com/user-attachments/assets/c85d5748-a66a-4ab0-ad1a-2a85315c3403" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/34b5b65e-f35b-43d0-b452-0c3fe38c4611"><img width="200" alt="Desktop" src="https://github.com/user-attachments/assets/34b5b65e-f35b-43d0-b452-0c3fe38c4611" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
 
+<br/>
+
 <details>
 <summary>📷 Voir plus de captures</summary>
 
@@ -251,6 +255,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </ul>
 
 <table align=left><tr><td><a href="https://github.com/user-attachments/assets/4530e708-c807-47c7-ae79-0badaca89eff"><img width="200" alt="capture-2025-10-08-11-32-33" src="https://github.com/user-attachments/assets/4530e708-c807-47c7-ae79-0badaca89eff" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/1ca78b71-e7bf-4fe5-afc6-99f7e05811f3"><img width="200" alt="capture-2025-10-08-11-32-25" src="https://github.com/user-attachments/assets/1ca78b71-e7bf-4fe5-afc6-99f7e05811f3" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/a848777b-ce74-4d15-92e1-c000c11c4716"><img width="200" alt="capture-2025-10-08-11-32-20" src="https://github.com/user-attachments/assets/a848777b-ce74-4d15-92e1-c000c11c4716" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr><tr><td><a href="https://github.com/user-attachments/assets/54dd17f5-1c67-439d-ad18-6505ce9ef0ba"><img width="200" alt="capture-2025-10-08-11-32-12" src="https://github.com/user-attachments/assets/54dd17f5-1c67-439d-ad18-6505ce9ef0ba" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td><td><a href="https://github.com/user-attachments/assets/cb440345-a35e-4f78-ad6e-24195d64c434"><img width="200" alt="capture-2025-10-08-11-31-16" src="https://github.com/user-attachments/assets/cb440345-a35e-4f78-ad6e-24195d64c434" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a></td></tr></table>
+
+<br/>
 
 <details>
 <summary>📷 Voir plus de captures</summary>
@@ -351,6 +357,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
   <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 56 26" src="https://github.com/user-attachments/assets/bb2887d3-768c-44b7-b0fe-afd4df935bc4" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
   <td><img width="200" alt="Capture d'écran 2025-12-05 à 12 56 35" src="https://github.com/user-attachments/assets/e49a0fc0-011a-4ea6-ac11-5564cac7c0b3" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></td>
 </tr></table>
+
+<br/>
 
 <details>
 <summary>📷 Voir plus de captures</summary>
@@ -473,6 +481,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </tr>
 
 </table>
+
+<br/>
 
 <details>
 <summary>📦 Archives — anciens projets</summary>
