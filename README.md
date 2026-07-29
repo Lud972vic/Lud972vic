@@ -37,9 +37,65 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 0 12px;">
 
-<!-- ===== Landing Page — Fiches Produits ===== -->
+<!-- ===== SyncPoint ===== -->
 <tr>
 <td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+
+<h4>📁 SyncPoint</h4>
+
+<p><img src="https://img.shields.io/badge/Statut-En_ligne-brightgreen?style=flat-square" alt="En ligne" />
+<img src="https://img.shields.io/badge/Tarif-d%C3%A8s_20%E2%82%AC%2Fmois-blue?style=flat-square" alt="Tarif" />
+<img src="https://img.shields.io/badge/Licence-Open_source-success?style=flat-square" alt="Open source" />
+<img src="https://img.shields.io/github/forks/Lud972vic/SyncPoint?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/SyncPoint?style=flat-square&color=orange" alt="Top language" /></p>
+
+<p><em>Vos fichiers, partout avec vous.</em></p>
+
+<p>Alternative moderne à <strong>Microsoft SharePoint</strong>. Gérez, partagez et sécurisez vos documents d'entreprise depuis un seul endroit. Permissions inspirées de NTFS, édition OnlyOffice (Word, Excel, PPT), recherche multicritères, notifications in-app, API REST + JWT, journal d'audit complet.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Permissions_NTFS-blue?style=flat-square" alt="NTFS" />
+<img src="https://img.shields.io/badge/OnlyOffice-6AA84F?style=flat-square" alt="OnlyOffice" />
+<img src="https://img.shields.io/badge/API_REST-JWT-orange?style=flat-square" alt="API REST" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square" alt="Swagger" />
+<img src="https://img.shields.io/badge/Bilingue-FR%2FEN-blueviolet?style=flat-square" alt="Bilingue" />
+<img src="https://img.shields.io/badge/On_Premise-OK-purple?style=flat-square" alt="On-premise" />
+</p>
+
+<ul>
+  <li>🌐 <em>Site en ligne :</em> <a href="https://lud972vic.github.io/SyncPoint/">https://lud972vic.github.io/SyncPoint/</a></li>
+  <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/SyncPoint">https://github.com/Lud972vic/SyncPoint</a></li>
+</ul>
+
+<p><strong>Fonctionnalités clés :</strong></p>
+<ul>
+  <li>🔐 Permissions inspirées de NTFS (lecture, écriture, upload, suppression, partage, héritage, refus explicite)</li>
+  <li>📝 Édition OnlyOffice intégrée (Word, Excel, PowerPoint, CSV)</li>
+  <li>🔍 Recherche avancée multicritères (nom, extension, propriétaire, groupe)</li>
+  <li>👥 Groupes & espaces collaboratifs</li>
+  <li>🔗 Liens de partage sécurisés (expiration, mot de passe)</li>
+  <li>🗑️ Corbeille & restauration</li>
+  <li>⭐ Favoris & bookmarks</li>
+  <li>🔔 Notifications in-app</li>
+  <li>📋 Journal d'audit complet</li>
+  <li>🔑 API REST + JWT (Swagger)</li>
+  <li>💾 Sauvegardes automatiques & restauration</li>
+  <li>🌍 Bilingue Français / Anglais</li>
+</ul>
+
+<p><strong>Tarifs simples, sans licence par utilisateur :</strong></p>
+<ul>
+  <li>🟢 <strong>Starter</strong> — 20€/mois (hébergement inclus, quotas de démarrage)</li>
+  <li>🔵 <strong>Pro</strong> — 200€/mois (quotas illimités, sauvegardes quotidiennes, support prioritaire)</li>
+  <li>🟣 <strong>Enterprise</strong> — 8 000€/projet (on-premise, formation, support dédié)</li>
+</ul>
+
+</td>
+</tr>
+
+<!-- ===== Landing Page — Fiches Produits ===== -->
+<tr>
+<td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
 
 <h4>🎨 Landing Page — Fiches Produits</h4>
 
