@@ -67,19 +67,19 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
   <li>🐙 <em>GitHub :</em> <a href="https://github.com/Lud972vic/SyncPoint">https://github.com/Lud972vic/SyncPoint</a></li>
 </ul>
 
-<p><strong>Fonctionnalités clés :</strong></p>
+<details>
+<summary>📋 Fonctionnalités clés & tarifs</summary>
+
+<p><strong>Fonctionnalités :</strong></p>
 <ul>
   <li>🔐 Permissions inspirées de NTFS (lecture, écriture, upload, suppression, partage, héritage, refus explicite)</li>
   <li>📝 Édition OnlyOffice intégrée (Word, Excel, PowerPoint, CSV)</li>
   <li>🔍 Recherche avancée multicritères (nom, extension, propriétaire, groupe)</li>
   <li>👥 Groupes & espaces collaboratifs</li>
   <li>🔗 Liens de partage sécurisés (expiration, mot de passe)</li>
-  <li>🗑️ Corbeille & restauration</li>
-  <li>⭐ Favoris & bookmarks</li>
-  <li>🔔 Notifications in-app</li>
-  <li>📋 Journal d'audit complet</li>
-  <li>🔑 API REST + JWT (Swagger)</li>
-  <li>💾 Sauvegardes automatiques & restauration</li>
+  <li>🗑️ Corbeille & restauration · ⭐ Favoris & bookmarks</li>
+  <li>🔔 Notifications in-app · 📋 Journal d'audit complet</li>
+  <li>🔑 API REST + JWT (Swagger) · 💾 Sauvegardes automatiques</li>
   <li>🌍 Bilingue Français / Anglais</li>
 </ul>
 
@@ -90,11 +90,12 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
   <li>🟣 <strong>Enterprise</strong> — 8 000€/projet (on-premise, formation, support dédié)</li>
 </ul>
 
+</details>
+
 <p align="center">
   <a href="https://raw.githubusercontent.com/Lud972vic/SyncPoint/main/captures/02-dashboard.png"><img width="200" alt="Dashboard SyncPoint" src="https://raw.githubusercontent.com/Lud972vic/SyncPoint/main/captures/02-dashboard.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
   <a href="https://raw.githubusercontent.com/Lud972vic/SyncPoint/main/captures/03-browse.png"><img width="200" alt="Navigateur" src="https://raw.githubusercontent.com/Lud972vic/SyncPoint/main/captures/03-browse.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px; margin: 4px;" /></a>
 </p>
-
 
 </td>
 </tr>
@@ -193,6 +194,14 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <img src="https://img.shields.io/github/languages/top/Lud972vic/Jaya-Presentation?style=flat-square&color=orange" alt="Top language" /></p>
 
 <p>Le projet qui va (peut-être) changer le monde de la restauration.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 <p>🔗 <a href="https://github.com/Lud972vic/Jaya-Presentation">Le projet en détail</a></p>
 
@@ -542,6 +551,13 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </td>
 </tr>
 
+</table>
+
+<details>
+<summary>📦 Archives — anciens projets</summary>
+
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 0 12px;">
+
 <!-- ===== Portfolio ===== -->
 <tr>
 <td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
@@ -677,6 +693,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 </table>
 
+</details>
+
 ---
 
 ## 🛠️ Mes Compétences
@@ -763,8 +781,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </picture>
 
 </div>
-
-> 💡 *Le snake se met à jour automatiquement via une GitHub Action. Pour l'activer, crée un workflow dans ton repo de profil — voir [Platane/snk](https://github.com/Platane/snk).*
 
 </details>
 
