@@ -39,7 +39,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== SyncPoint ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>📁 SyncPoint</h4>
 
@@ -101,7 +101,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Landing Page — Fiches Produits ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>🎨 Landing Page — Fiches Produits</h4>
 
@@ -157,7 +157,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Kelio POC ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>🖥️ Kelio POC</h4>
 
@@ -184,7 +184,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Jaya ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>🍽️ Jaya</h4>
 
@@ -207,7 +207,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== ALDI Mobile Inventaire Picking ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>🛒 ALDI Mobile Inventaire Picking</h4>
 
@@ -259,7 +259,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== HubStock ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>📦 HubStock</h4>
 
@@ -311,7 +311,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Kelio Data Explorer & Importer ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>📁 Kelio Data Explorer & Importer</h4>
 
@@ -346,7 +346,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== SimplePartage ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>📁 SimplePartage</h4>
 
@@ -381,7 +381,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Stock HUB Multiple articles ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>📦 Stock HUB Multiple articles</h4>
 
@@ -429,7 +429,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== RrR ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>💰 RrR (Rabais - Remises - Ristournes)</h4>
 
@@ -451,7 +451,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== MonitoringJobs ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>📊 MonitoringJobs</h4>
 
@@ -486,7 +486,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== FA - Facturation Automatique ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>💸 FA — Facturation Automatique</h4>
 
@@ -513,7 +513,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== RH OnboardingRH ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>🧑‍💼 RH OnboardingRH</h4>
 
@@ -544,7 +544,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Portfolio ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>🎨 Portfolio</h4>
 
@@ -571,7 +571,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Melys Location ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>🏖️ Melys Location</h4>
 
@@ -597,7 +597,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Juste un regard ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>📸 Juste un regard</h4>
 
@@ -623,7 +623,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== Minis Quizs ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #f6f8fa; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #fff3e0; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>🧠 Minis Quizs</h4>
 
@@ -650,7 +650,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <!-- ===== PinALDI ===== -->
 <tr>
-<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #d0d7de;">
+<td style="vertical-align: top; padding: 20px; background-color: #ffffff; border-radius: 8px; border: 1px solid #ffcc80;">
 
 <h4>📍 PinALDI</h4>
 
