@@ -46,19 +46,13 @@ Récemment, j'ai attrapé le virus de l'**IA**, des **LLMs** et du *'vibe coding
 
 ---
 
-## 📑 Navigation rapide
-
 <div align="center">
-
-<a href="#projets">🚀 Projets</a> &nbsp;·&nbsp; <a href="#competences">🛠️ Compétences</a> &nbsp;·&nbsp; <a href="#stats">📊 Stats</a> &nbsp;·&nbsp; <a href="#activite">🐍 Activité</a> &nbsp;·&nbsp; <a href="#contact">📞 Contact</a>
 
 <img src="https://komarev.com/ghpvc/?username=Lud972vic&label=Visiteurs&color=003399&style=flat-square" alt="Visitor count" />
 
 </div>
 
 ---
-
-<a name="projets"></a>
 
 ## Mes Projets
 
@@ -593,8 +587,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-<a name="competences"></a>
-
 ## Mes Compétences
 
 ### Langages & Frameworks web
@@ -619,8 +611,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-<a name="stats"></a>
-
 ## Statistiques GitHub
 
 <div align="center">
@@ -644,8 +634,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-<a name="activite"></a>
-
 ## Mon activité GitHub
 
 <div align="center">
@@ -660,8 +648,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 </div>
 
 ---
-
-<a name="contact"></a>
 
 ## Comment me contacter
 
