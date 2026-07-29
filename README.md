@@ -2,7 +2,8 @@
 
 # Salut, moi c'est Ludovic ! 👋
 
-*Concepteur développeur d'applications PHP & Symfony — chef d'orchestre du back-end qui sait aussi faire danser le front-end.*
+<!-- Animation typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=777BB4&center=true&vCenter=true&random=false&width=600&lines=Concepteur+d%C3%A9veloppeur+PHP+%26+Symfony;Chef+d'orchestre+du+back-end;Qui+sait+aussi+danser+le+front-end;Serveurs+Linux+%C2%B7+Docker+%C2%B7+Apache+%C2%B7+Caddy;R%C3%A9cemment+contamin%C3%A9+par+le+virus+des+LLMs" alt="Typing SVG" />
 
 </div>
 
@@ -516,7 +517,54 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-## 📫 Comment me contacter
+## � Statistiques GitHub
+
+<div align="center">
+
+<!-- Stats principales -->
+<img src="https://github-readme-stats.vercel.app/api?username=Lud972vic&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=777BB4&icon_color=777BB4" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lud972vic&theme=radical&hide_border=true&background=0D1117&ring=777BB4&fire=777BB4&currStreakLabel=777BB4" alt="GitHub Streak" height="170" />
+
+<!-- Langages les plus utilisés -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lud972vic&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=777BB4" alt="Top Languages" height="170" />
+
+</div>
+
+---
+
+## 🐍 Mon activité GitHub
+
+<details>
+<summary>🐍 Voir le snake dévorer mes commits</summary>
+
+<div align="center">
+
+<!-- Snake généré par GitHub Action -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lud972vic/Lud972vic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lud972vic/Lud972vic/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lud972vic/Lud972vic/output/github-snake.svg" />
+</picture>
+
+</div>
+
+> 💡 *Le snake se met à jour automatiquement via une GitHub Action. Pour l'activer, crée un workflow dans ton repo de profil — voir [Platane/snk](https://github.com/Platane/snk).*
+
+</details>
+
+---
+
+## 😄 Citation aléatoire de dev
+
+<div align="center">
+
+<img src="https://github-readme-quotes.vercel.app/quote?layout=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+## �📫 Comment me contacter
 
 <div align="center">
 
