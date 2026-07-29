@@ -44,7 +44,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <h4>🎨 Landing Page — Fiches Produits</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-En_ligne-brightgreen?style=flat-square" alt="En ligne" />
-<img src="https://img.shields.io/github/stars/Lud972vic/landing-page-fiches-produits?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Lud972vic/landing-page-fiches-produits?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/landing-page-fiches-produits?style=flat-square&color=orange" alt="Top language" /></p>
 
@@ -96,7 +95,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <h4>🖥️ Kelio POC</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
-<img src="https://img.shields.io/github/stars/Lud972vic/Kelio-Electron?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Lud972vic/Kelio-Electron?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/Kelio-Electron?style=flat-square&color=orange" alt="Top language" /></p>
 
@@ -124,7 +122,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <h4>🍽️ Jaya</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-En_cours-yellow?style=flat-square" alt="En cours" />
-<img src="https://img.shields.io/github/stars/Lud972vic/Jaya-Presentation?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Lud972vic/Jaya-Presentation?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/Jaya-Presentation?style=flat-square&color=orange" alt="Top language" /></p>
 
@@ -148,7 +145,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <h4>🛒 ALDI Mobile Inventaire Picking</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
-<img src="https://img.shields.io/github/stars/Lud972vic/Mobile-Inventaire-Picking?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Lud972vic/Mobile-Inventaire-Picking?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/Mobile-Inventaire-Picking?style=flat-square&color=orange" alt="Top language" /></p>
 
@@ -201,7 +197,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <h4>📦 HubStock</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-En_ligne-brightgreen?style=flat-square" alt="En ligne" />
-<img src="https://img.shields.io/github/stars/Lud972vic/HubStock?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Lud972vic/HubStock?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/HubStock?style=flat-square&color=orange" alt="Top language" /></p>
 
@@ -254,7 +249,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <h4>📁 Kelio Data Explorer & Importer</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
-<img src="https://img.shields.io/github/stars/Lud972vic/POC_Kelio_Prive?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Lud972vic/POC_Kelio_Prive?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/POC_Kelio_Prive?style=flat-square&color=orange" alt="Top language" /></p>
 
@@ -290,7 +284,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <h4>📁 SimplePartage</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
-<img src="https://img.shields.io/github/stars/Lud972vic/SimplePartage?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Lud972vic/SimplePartage?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/SimplePartage?style=flat-square&color=orange" alt="Top language" /></p>
 
@@ -326,7 +319,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <h4>📦 Stock HUB Multiple articles</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
-<img src="https://img.shields.io/github/stars/Lud972vic/Stock-HUB-Multiple-Articles?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Lud972vic/Stock-HUB-Multiple-Articles?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/Stock-HUB-Multiple-Articles?style=flat-square&color=orange" alt="Top language" /></p>
 
@@ -397,7 +389,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <h4>📊 MonitoringJobs</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
-<img src="https://img.shields.io/github/stars/Lud972vic/MonitoringJobs?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Lud972vic/MonitoringJobs?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/MonitoringJobs?style=flat-square&color=orange" alt="Top language" /></p>
 
@@ -460,7 +451,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <h4>🧑‍💼 RH OnboardingRH</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
-<img src="https://img.shields.io/github/stars/Lud972vic/OnboardingRH?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
 <img src="https://img.shields.io/github/forks/Lud972vic/OnboardingRH?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/OnboardingRH?style=flat-square&color=orange" alt="Top language" /></p>
 
