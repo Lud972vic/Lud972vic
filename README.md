@@ -678,11 +678,11 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <div align="center">
 
 <!-- Stats principales -->
-<img src="https://github-readme-stats.vercel.app/api?username=Lud972vic&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=777BB4&icon_color=777BB4" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Lud972vic&theme=radical&hide_border=true&background=0D1117&ring=777BB4&fire=777BB4&currStreakLabel=777BB4" alt="GitHub Streak" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lud972vic&theme=2075" alt="GitHub Stats" height="170" />
+<img src="https://streak-stats.demolab.com/?user=Lud972vic&theme=highcontrast&hide_border=true&background=0D1117&ring=777BB4&fire=777BB4&currStreakLabel=777BB4" alt="GitHub Streak" height="170" />
 
 <!-- Langages les plus utilisés -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lud972vic&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=777BB4" alt="Top Languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lud972vic&theme=2075" alt="Top Languages" height="170" />
 
 </div>
 
@@ -714,7 +714,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <div align="center">
 
-<img src="https://github-readme-quotes.vercel.app/quote?layout=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 </div>
 
