@@ -1,21 +1,21 @@
 <!-- Bannière animée -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradientList=003399,FF6600,003399&height=180&text=Ludovic&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Concepteur+Developpeur+PHP+Symfony&descAlignY=55&descSize=15&animation=fadeIn" alt="bannière" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradientList=003399,FF6600,003399&height=180&text=Ludovic&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Concepteur+d%C3%A9veloppeur+d%27applications&descAlignY=55&descSize=15&animation=fadeIn" alt="bannière" width="100%" />
 </div>
 
 <div align="center">
 
-# Salut, moi c'est Ludovic ! 👋
+# Salut, moi c'est Ludo ! 👋
 
 <!-- Animation typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=003399&center=true&vCenter=true&random=false&width=600&lines=Concepteur+d%C3%A9veloppeur+PHP+%26+Symfony;Chef+d'orchestre+du+back-end;Qui+sait+aussi+danser+le+front-end;Serveurs+Linux+%C2%B7+Docker+%C2%B7+Apache+%C2%B7+Caddy;R%C3%A9cemment+contamin%C3%A9+par+le+virus+des+LLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=003399&center=true&vCenter=true&random=false&width=600&lines=Concepteur+d%C3%A9veloppeur+d%27applications;Chef+d%27orchestre+du+back-end;Qui+sait+aussi+danser+le+front-end;Serveurs+Linux+%C2%B7+Docker+%C2%B7+Apache+%C2%B7+Caddy;R%C3%A9cemment+contamin%C3%A9+par+le+virus+des+LLMs" alt="Typing SVG" />
 
 </div>
 
 ---
 
 ## 👨‍💻 À propos de moi
-
+Mon activité GitHub
 Concepteur développeur d'applications **PHP & Symfony**, je suis un peu le chef d'orchestre du back-end, mais je sais aussi faire danser le front-end. En coulisses, je m'occupe de la machinerie : serveurs Linux, Docker, Apache, Caddy, et toute la clique (PHP, MariaDB, phpMyAdmin, Mailpit). En gros, je fais en sorte que tout tourne rond, du serveur à l'interface.
 
 Récemment, j'ai attrapé le virus de l'**IA**, des **LLMs** et du *'vibe coding'*. J'expérimente pour pimenter mes futurs projets avec une dose d'innovation et une pincée de magie algorithmique.
@@ -626,7 +626,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-## Mon activité GitHub
+## Mon activité GitHub -Public
 
 <div align="center">
 
