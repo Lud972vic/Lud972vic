@@ -626,7 +626,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 ---
 
-## Mon activité GitHub -Public
+## Mon activité GitHub - Public
 
 <div align="center">
 
