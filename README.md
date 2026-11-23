@@ -52,6 +52,30 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 0 12px;">
 
+
+<!-- ===== Jeu-de-dames ===== -->
+<tr>
+<td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
+
+<h4>🖥️ Kelio POC</h4>
+
+<p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
+<img src="https://img.shields.io/github/forks/Lud972vic/Kelio-Electron?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/Lud972vic/Kelio-Electron?style=flat-square&color=orange" alt="Top language" /></p>
+
+<p>Le jeu de dames international qui ne respecte pas les règles — mais votre vie privée.</p>
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+<p>🔗 <a href="https://github.com/Lud972vic/Jeu-de-dames">Détail projet</a></p>
+
+<table align=left><tr><td><a href="https://github.com/Lud972vic/Jeu-de-dames/blob/main/docs/screenshots/03-partie-mobile.png"><img width="200" alt="JeuDeDames" src="https://github.com/Lud972vic/Jeu-de-dames/blob/main/docs/screenshots/03-partie-mobile.png" style="box-shadow: 0 0 10px rgba(0,0,0,0.5); border-radius: 6px;" /></a></td></tr></table>
+</td>
+</tr>
+
+
 <!-- ===== SyncPoint ===== -->
 <tr>
 <td style="vertical-align: top; padding: 20px; background-color: #E6F0FF; border-radius: 8px; border: 1px solid #003399;">
