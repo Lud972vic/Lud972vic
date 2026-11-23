@@ -57,7 +57,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <tr>
 <td style="vertical-align: top; padding: 20px; background-color: #FFFFFF; border-radius: 8px; border: 1px solid #003399;">
 
-<h4>🖥️ Kelio POC</h4>
+<h4>🐙 Jeu de dames</h4>
 
 <p><img src="https://img.shields.io/badge/Statut-Terminé-blue?style=flat-square" alt="Terminé" />
 <img src="https://img.shields.io/github/forks/Lud972vic/Kelio-Electron?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
