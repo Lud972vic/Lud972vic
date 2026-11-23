@@ -63,7 +63,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 <img src="https://img.shields.io/github/forks/Lud972vic/Kelio-Electron?style=flat-square&color=blue&label=%F0%9F%8D%B4" alt="Forks" />
 <img src="https://img.shields.io/github/languages/top/Lud972vic/Kelio-Electron?style=flat-square&color=orange" alt="Top language" /></p>
 
-<p>Le jeu de dames international qui ne respecte pas les règles — mais votre vie privée.</p>
+<p>Le jeu de dames international qui ne respecte pas les règles — mais qui respecte votre vie privée. Une IA qui joue vraiment — pas un script. Jusqu'à 12 coups d'avance, 100 % sur votre appareil, sans cloud ni latence.</p>
 
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
