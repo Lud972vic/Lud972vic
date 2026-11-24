@@ -21,6 +21,10 @@ Concepteur développeur d'applications **PHP & Symfony**, je suis un peu le chef
 Récemment, j'ai attrapé le virus de l'**IA**, des **LLMs** et du *'vibe coding'*. J'expérimente pour pimenter mes futurs projets avec une dose d'innovation et une pincée de magie algorithmique.
 
 <div align="center">
+  <img src="images/copilot-fd.png" alt="Ludovic et sa collaboratrice IA, entre code, ETL et cahier des charges" width="600" style="border-radius:8px; box-shadow:0 0 14px rgba(0,51,153,.35);">
+</div>
+
+<div align="center">
 
 <table>
 <tr>
